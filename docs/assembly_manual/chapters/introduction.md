@@ -63,7 +63,7 @@ Note the descriptor at the end of the file name, while there are many types of s
 
 Some printed parts have multiple versions in order to cater for different machine setups - be aware that not all versions need to be printed to put your machine together.
 
-![skirt variants picture](resources/skirt_variant.png)
+![skirt variants picture](../img/skirt_variant.png)
 
 Choose the parts you need based on your build requirements.
 
@@ -95,16 +95,16 @@ Before you head out on your journey to create skynet, it's probably a good idea 
 
 ## CONTACT US
 
-Building milo can be confusing, but we're here to help.
+Building Milo can be confusing, but we're here to help.
 Do you have a question?
 Do you wanna show off your build?
-Or maybe do you just want someone to chat with?
-Well, why not join the community here on:
+Maybe do you just want someone to chat with?
+Well, why not join our community here on:
 
-- ![discord_logo](../resources/discord_logo.png) [https://discord.gg/ya4UUj7ax2](https://discord.gg/ya4UUj7ax2)
-- ![reddit_logo](../resources/reddit_logo.png) [r/MilleniumMachines/](https://www.reddit.com/r/MilleniumMachines/)
-- ![youtube_logo](../resources/youtube_logo.png) [Millennium Machine Works Official](https://www.youtube.com/channel/UCfdxXilZd76Dp8RfLxUJ_Gw)
-- ![github_logo](../resources/github_logo.png) [https://github.com/MillenniumMachines](https://github.com/MillenniumMachines)
+- :fontawesome-brands-discord: **Discord** [https://discord.gg/ya4UUj7ax2](https://discord.gg/ya4UUj7ax2)
+- :fontawesome-brands-reddit: **Reddit** [/r/MilleniumMachines/](https://www.reddit.com/r/MilleniumMachines/)
+- :fontawesome-brands-youtube: **YouTube** [Millennium Machine Works Official](https://www.youtube.com/channel/UCfdxXilZd76Dp8RfLxUJ_Gw)
+- :fontawesome-brands-github: **GitHub** [https://github.com/MillenniumMachines](https://github.com/MillenniumMachines)
 
 ---
 
