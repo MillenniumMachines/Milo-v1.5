@@ -5,13 +5,13 @@ nav:
   - Sourcing Guide: bom/sourcing_guide.md
   - Printing Guide: printing/print_guide.md
   - Assembly Manual:
-      - Introduction: assembly_manual/chapters/introduction.md
       - Acknowledgements: assembly_manual/chapters/acknowledgements.md
+      - Introduction: assembly_manual/chapters/introduction.md
       - Hardware Reference: assembly_manual/chapters/hardware_reference.md
-      - Table Assembly: assembly_manual/chapters/table_assembly.md
-      - X-Axis Assembly: assembly_manual/chapters/x_axis_assembly.md
       - Y-Axis Assembly: assembly_manual/chapters/y_axis_assembly.md
+      - X-Axis Assembly: assembly_manual/chapters/x_axis_assembly.md
       - Z-Axis Assembly: assembly_manual/chapters/z_axis_assembly.md
+      - Table Assembly: assembly_manual/chapters/table_assembly.md
 
 #extra_css:
 #  - stylesheets/extra.css
