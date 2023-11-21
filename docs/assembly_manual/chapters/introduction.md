@@ -101,7 +101,7 @@ Do you wanna show off your build?
 Or maybe do you just want someone to chat with?
 Well, why not join the community here on:
 
-- ![discord_logo](../resources/discord_logo.png) [https://discord.gg/TY4mtzhpZY](https://discord.gg/TY4mtzhpZY)
+- ![discord_logo](../resources/discord_logo.png) [https://discord.gg/ya4UUj7ax2](https://discord.gg/ya4UUj7ax2)
 - ![reddit_logo](../resources/reddit_logo.png) [r/MilleniumMachines/](https://www.reddit.com/r/MilleniumMachines/)
 - ![youtube_logo](../resources/youtube_logo.png) [Millennium Machine Works Official](https://www.youtube.com/channel/UCfdxXilZd76Dp8RfLxUJ_Gw)
 - ![github_logo](../resources/github_logo.png) [https://github.com/MilleniumMills](https://github.com/MilleniumMills)
