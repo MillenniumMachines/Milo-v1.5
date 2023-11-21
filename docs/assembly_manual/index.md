@@ -1,4 +1,4 @@
-# Minimill V1.5 Assembly manual
+# Millennium Machines Milo V1.5 Assembly Manual
 
 Made in a shed somewhere ... Probably
 
