@@ -6,7 +6,7 @@
 
 ## Identifying extrusions
 
-This section of the build contains a few C-beams that are close together, to help you identify which parts are which lay out your extrusions like the diagram shown on this page, the next steps will then highlight which extrusions are used for each step.
+This section of the build contains a few C-beams that are close together. To help you identify which parts are which, lay out your extrusions like the diagram shown on this page. The next steps will then highlight which extrusions are used for each step.
 
 ![](../resources/z_axis_assembly/y_axis_step_42.png)
 
@@ -71,7 +71,7 @@ The ballast box is designed to house a damping load such as sand or epoxy granit
 
 There is a small lip in the ballast box which registers with the tongue on the ballast top. This is easiest to install at an angle.
 
-Note : once the ballast top is installed it can be difficult to remove, be sure that no other steps need to be taken before sealing the lid.
+_NOTE_: Once the ballast top is installed, it can be difficult to remove. Be sure that no other steps need to be taken before sealing the lid.
 
 ![](../resources/z_axis_assembly/y_axis_step_57.png)
 
@@ -139,7 +139,7 @@ M5x12mm BHCS
 
 ## Install the motor at an angle
 
-When installing the Z motor first attach your belt loosely around your leadscrew pulley then slide your Z motor in at an angle.
+When installing the Z motor, attach your belt loosely around your leadscrew pulley and then slide your Z motor in at an angle.
 
 ![](../resources/z_axis_assembly/y_axis_step_70.png)
 
@@ -151,7 +151,7 @@ When installing the Z motor first attach your belt loosely around your leadscrew
 > M5 washer
 > M5x20 SHCS
 
-Before tightening fasteners fully make sure the tension is set correctly, to do this pull the motor away from the column with one hand until the belt can be strummed like a guitar string then tighten fasteners in opposing corners first.
+Before tightening the fasteners fully, make sure the tension is set correctly. To do this, pull the motor away from the column with one hand until the belt can be strummed like a guitar string and then tighten the fasteners in opposing corners first.
 
 ![](../resources/z_axis_assembly/y_axis_step_71.png)
 
@@ -204,7 +204,7 @@ Before tightening fasteners fully make sure the tension is set correctly, to do 
 
 ## Install spindle holder  
 
-It has come time to install your spindle mount however do not install your spindle at this point
+It has come time to install your spindle mount - but do not install your spindle at this point.
 
 ![](../resources/z_axis_assembly/y_axis_step_80.png)
 
@@ -212,7 +212,7 @@ It has come time to install your spindle mount however do not install your spind
 
 ## Do not tighten
 
-Leave these M5 nuts loose until it comes time to install your spindle.
+Leave these M5 nuts loose for now.
 
 > M5 washer
 > M5 Nyloc Hex Nut
@@ -221,9 +221,9 @@ Leave these M5 nuts loose until it comes time to install your spindle.
 
 ---
 
-## Optional: logo insert
+## Optional: Logo insert
 
-If you wish at this point you can glue in your Millenium Logo
+If you wish at this point, you can glue in your Millenium Logo.
 
 ![](../resources/z_axis_assembly/y_axis_step_83.png)
 

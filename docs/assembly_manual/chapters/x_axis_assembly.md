@@ -72,7 +72,7 @@
 
 ---
 
-## Install Locking collar on leadscrew
+## Install locking collar on leadscrew
 
 Install both locking collars onto the leadscrew without tightening either locking collars.
 
@@ -88,9 +88,9 @@ Install both locking collars onto the leadscrew without tightening either lockin
 
 ## Locking collar preload
 
-Using your fingers press each locking collar towards each other, driving them into the face of each bearing with moderate to high pressure. Tighten the inner collar first before tightening the external side collar this will ensure that the screw remains in the same position during use.
+Using your fingers, press each locking collar towards each other - driving them into the face of each bearing with moderate to high pressure. Tighten the inner collar first before tightening the external side collar. This will ensure that the screw remains in the same position during use.
 
-NOTE : add some loctite to the set screw.  
+_NOTE_: add some medium-strength thread-lock to the set screw.
 
 ![](../resources/x_axis_assembly/y_axis_step_38.2png.png)
 
@@ -98,7 +98,7 @@ NOTE : add some loctite to the set screw.
 
 ## Drag chain orientation
 
-Drag chains have 2 different sides a fixed side and a free side, for this setup the fixed side is connected to XY drag chain transition. The free side attaches itself to the X motor Mount.
+Drag chains have 2 different sides - a fixed side and a free side. For this setup, the fixed side is connected to the XY Drag Chain Transition. The free side attaches itself to the X Motor Mount.
 
 ![](../resources/x_axis_assembly/y_axis_step_39.png)
 
@@ -106,15 +106,15 @@ Drag chains have 2 different sides a fixed side and a free side, for this setup 
 
 ## Cable chain optional installation point
 
-You may wish to install the rest of the cable chain now to complete the X axis, however , it is often easier to thread your X axis motor and X endstop cables through the loose chain before installing it otherwise it can become quite a tight space to work in later.
+You may wish to install the rest of the cable chain now to complete the X axis, however it is often easier to thread your X axis motor and X endstop cables through the loose chain before installing it - otherwise it can become quite a tight space to work in later.
 
 ![](../resources/x_axis_assembly/y_axis_step_40.png)
 
 ---
 
-## X Endstop installation process
+## X-Endstop installation process
 
-To avoid the endstop getting damaged during the rest of the assembly its a good idea not to install it at this point, but rather install it when you do you’re wiring.
+To avoid the endstop getting damaged during the rest of the assembly, its a good idea not to install it at this point, but rather install it later with the rest of the wiring.
 
 ![](../resources/x_axis_assembly/y_axis_step_41.png)
 

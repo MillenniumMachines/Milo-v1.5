@@ -1,4 +1,4 @@
-# Hardware reference
+# Hardware Reference
 
 ## Button head cap bolt (BHCS)
 
@@ -38,7 +38,7 @@ ISO 4762
 
 A PC standard fan mounting screw. Exclusively used to hold the system cooling fans to the bottom panel.
 
-## Heat Set Insert
+## Heat set insert
 
 ![Heat Set Insert wireframe](../resources/hardware/heat_insert.png)
 
@@ -58,7 +58,7 @@ A ball bearing with a flange used to hold leadscrews in place.
 
 Steel or aluminium loops with a grub screw in the side used to limit the free travel of a leadscrew.
 
-## Self Tapping screw
+## Self-tapping screw
 
 ![Self Tapping screw wireframe](../resources/hardware/self_tapping_screw.png)
 
@@ -76,7 +76,7 @@ A ball bearing used to hold leadscrews in place.
 
 Usually stamped from sheet metal, this type of spacer distributes load over a larger area. Only used in M5 size.
 
-## Set Screw
+## Set screw
 
 ![Set Screw wireframe](../resources/hardware/grub_screw.png)
 
