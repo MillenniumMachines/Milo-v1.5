@@ -13,8 +13,8 @@ nav:
       - Z-Axis Assembly: assembly_manual/chapters/z_axis_assembly.md
       - Table Assembly: assembly_manual/chapters/table_assembly.md
 
-#extra_css:
-#  - stylesheets/extra.css
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   name: material
@@ -25,6 +25,7 @@ theme:
   palette:
     scheme: slate
     primary: red
+    accent: custom
 
 
 markdown_extensions:
