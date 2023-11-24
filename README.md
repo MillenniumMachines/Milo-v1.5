@@ -14,4 +14,4 @@ If you would like to follow the development of Milo, please follow us on Reddit:
 
 ## Getting started
 
-We'd recommend going through the [documentation](./docs/readme.md) - where you can learn about the parts and work needed to get your own machine up and running.
+We'd recommend going through the [documentation](./docs/index.md) - where you can learn about the parts and work needed to get your own machine up and running.
