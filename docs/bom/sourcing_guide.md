@@ -97,18 +97,17 @@
 | Cables (main)                   | JST Connector 4 Position                                                      | JST-XH                      | 3       | [Amazon](https://amzn.to/3G0HRvs)                                                                                                |                                                                                     |                                                         |                                    |
 | Misc                            | Epoxy Resin                                                                   |                             | 1L      |                                                                                                                                  |                                                                                     |                                                         |                                    |
 | Misc                            | Granite Sand                                                                  |                             | 1       |                                                                                                                                  |                                                                                     |                                                         |                                    |
-| Spindle                         | 1.5kw spindle 65mm                                                            |                             | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_982VE3)                                                                           |                                                                                     |                                                         |                                    |
+| Spindle                         | 2.2kw spindle 80mm                                                            |                             | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_DkvmYox)                                                                           |                                                                                     |                                                         |                                    |
 
 ### Notes
 
 #### TPU filament
 
-It's only used for the machine feets, maybe you can source suitable replacement parts.
+It's only used for the machine feet. Maybe you can source suitable replacement parts.
 
 #### Drivers
 
-Use drivers that are suitable for your motors needs.
-i.e match your motor's phase current to your driver's max RMS current.
+Use drivers that are suitable for your motor needs. Make sure to match your motor phase current to your driver max RMS current.
 
 #### XY gantry plate
 
@@ -122,13 +121,13 @@ This part can be printed
 
 #### Wiring
 
-Please consult your local guidelines for refulation wire size
+Please consult your local guidelines for regulation wire size.
 
-#### Ferrule CableTerminations
+#### Ferrule cable terminations
 
-Size and use where appropriate
+Size and use where appropriate.
 
-#### Epoxy Resin & Granite Sand
+#### Epoxy resin & granite sand
 
-The mix of epoxy resin and granite sand can be used to fill the ballast box of your machine, it is optional but can help dampen you machine.
+A mix of epoxy resin and granite sand can be used to fill the ballast box of your machine. This is optional, but can help to dampen excessive vibration.
 <!-- TODO check with the design team -->
