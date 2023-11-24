@@ -17,7 +17,7 @@ Have fun building your very first Milo.
 
 ## Bill of materials
 
-Provided [here](../bom/sourcing_guide.md) is the bill of materials. Whilst we recommend that you try to stick to this list as much as possible, you're an adult (hopefully) and this is your machine. If there is a substitution that you think would lead to a better machine then do that, if there is a feature you don't feel is necessary then don't buy the parts for it.
+Provided [here](../../bom/sourcing_guide.md) is the bill of materials. Whilst we recommend that you try to stick to this list as much as possible, you're an adult (hopefully) and this is your machine. If there is a substitution that you think would lead to a better machine then do that, if there is a feature you don't feel is necessary then don't buy the parts for it.
 
 Furthermore, there are options in the guide that are up to you to decide on, such as drivers, motors and even control boards. Do your research and find what you need to make your build work for you.
 
