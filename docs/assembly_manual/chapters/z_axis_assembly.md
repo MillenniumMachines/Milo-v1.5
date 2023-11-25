@@ -224,7 +224,7 @@ Leave these M5 nuts loose for now.
 
 ## Optional: Logo insert
 
-If you wish at this point, you can glue in your Millennium Logo.
+If you wish at this point, you can glue in your Millennium Machines Logo.
 
 ![](../img/z_axis_assembly/y_axis_step_83.png)
 
