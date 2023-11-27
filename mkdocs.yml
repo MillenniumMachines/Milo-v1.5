@@ -1,5 +1,6 @@
 site_name: Millennium Machines Milo V1.5
 repo_url: https://github.com/MilleniumMills/Millenium-Milo-v1.5
+edit_uri: edit/main/docs/
 nav:
   - Home: index.md
   - Sourcing Guide: bom/sourcing_guide.md
@@ -27,8 +28,14 @@ theme:
     primary: red
     accent: custom
 
+  features:
+    - content.action.edit
+    - navigation.tracking
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
