@@ -1,6 +1,6 @@
-# Printing guide
+# Printing Guide
 
-## X-axis assembly
+## X-Axis Assembly
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** |
 |----------|------------|-------------------------|--------------|--------------|----------------------|
 | [X Axis Table support (Ends)    ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/X%20Axis%20STLs/X%20Axis%20Table%20Support%20Ends%20x4%20.stl)               | 40%  | 1.6mm  | ABS/ASA | 4 | N |
@@ -9,21 +9,21 @@
 | [X Axis Bearing Block           ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/X%20Axis%20STLs/X%20Axis%20Bearing%20Block%20x1.stl)                         | 40%  | 1.6mm  | ABS/ASA | 1 | N |
 | [X Axis Anti Backlash Nut       ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/X%20Axis%20STLs/X%20Axis%20Anti%20Backlash%20Nut%20x1.stl)                   | 40%  | 1.6mm  | ABS/ASA | 1 | N |
 
-## Y-axis assembly
+## Y-Axis Assembly
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** |
 |----------|------------|-------------------------|--------------|--------------|----------------------|
 | [Y Axis Motor Mount             ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Y%20Axis%20STLs/Y%20Axis%20Motor%20Mount%20x1.stl)                           | 40%  | 1.6mm | ABS/ASA | 1 | N |
 | [Y Axis Bearing Block           ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Y%20Axis%20STLs/Y%20Axis%20Bearing%20Block%20x1.stl)                         | 40%  | 1.6mm | ABS/ASA | 1 | Y |
 | [Y Axis Anti Backlash Nut       ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Y%20Axis%20STLs/Y%20Axis%20Anti%20Backlash%20Nut%20x1.stl)                   | 40%  | 1.6mm | ABS/ASA | 1 | N |
 
-## Z-axis assembly
+## Z-Axis Assembly
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** |
 |----------|------------|-------------------------|--------------|--------------|----------------------|
 | [Z Axis Motor Mount             ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/Z%20Motor%20Mount%20x1.stl)                                  | 40%  | 1.6mm | ABS/ASA | 1 | N |
 | [Z Axis Bearing Block           ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/%5Ba%5D%20Z%20Bearing%20Block%20x1.stl)                      | 40%  | 1.6mm | ABS/ASA | 1 | N |
 | [Z Axis Anti Backlash Nut       ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/Z%20Axis%20Anti%20Backlash%20Nut%20x1.stl)                   | 40%  | 1.6mm | ABS/ASA | 1 | N |
 
-## Main column
+## Main Column
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** | **Note** |
 |----------|------------|-------------------------|--------------|--------------|----------------------|----------|
 | [Ballast Box                    ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Main%20Column/Ballast%20Box%20x1.stl)                                        | 40%  | 2.4mm | ABS/ASA | 1 | N | Optional - Needs to be water tight |
@@ -37,7 +37,7 @@
 | [Z Reinforcement Bracket        ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Main%20Column/Z%20Reinforcement%20Bracket%20x1.stl)                          | 40%  | 2.4mm | ABS/ASA | 1 | N | |
 | [Z Reinforcement Bracket Mirror ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Main%20Column/Z%20Reinforcement%20Bracket%20Mirror%20x1.stl)                 | 40%  | 2.4mm | ABS/ASA | 1 | N | |
 
-## Spindle mount
+## Spindle Mount
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** |
 |----------|------------|-------------------------|--------------|--------------|----------------------|
 | [80mm Spindle Mount Part A      ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Spindle%20Mount/%5Ba%5D%20Spindle%20Mount%2080mm%20Part%20A%20x1.stl)        | 40%  | 2.4mm | ABS/ASA | 1 | Y |
@@ -46,7 +46,7 @@
 | [65mm Spindle Mount Part B      ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Spindle%20Mount/%5Ba%5D%20Spindle%20Mount%2080mm%20Part%20A%20x1.stl)        | 40%  | 2.4mm | ABS/ASA | 1 | N |
 | [Logo Insert                    ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Spindle%20Mount/Logo%20Insert%20x1.stl)                                      | 40%  | 2.4mm | ABS/ASA | 1 | N |
 
-## Cable chain mounts
+## Cable Chain Mounts
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** |
 |----------|------------|-------------------------|--------------|--------------|----------------------|
 | [XY Drag Chain Transition       ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Cable%20Chain%20Mounts/%5Ba%5D%20XY%20Drag%20Chain%20Transition%20x1.stl)    | 40%  | 1.2mm   | ABS/ASA | 1 | Y |
