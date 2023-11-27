@@ -161,11 +161,11 @@ Use drivers that are suitable for your motor needs. Make sure to match your moto
 !!! warning
     Please consult your local guidelines for regulation wire size.
 
-#### Ferrule cable terminations
+#### Ferrule Cable Terminations
 
 Size and use where appropriate.
 
-#### Epoxy resin & granite sand
+#### Epoxy Resin & Granite Sand
 
 A mix of epoxy resin and granite sand can be used to fill the ballast box of your machine. This is optional, but can help to dampen excessive vibration.
 <!-- TODO check with the design team -->
