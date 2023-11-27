@@ -1,6 +1,6 @@
 # X Axis Assembly
 
-![](../img/x_axis_assembly/x_axis_assembly.png){: .shadow}
+![](../img/x_axis_assembly/x_axis_assembly.png)
 
 ---
 ## Rails
@@ -13,7 +13,7 @@ C-beam 500mm
 
 Fasten the MGN15 500mm Rails to the 500mm extrusion by screwing M3x10mm SHCS into the spring t-nuts inside the profile.
 
-![fasten the MGN15 500mm Rails to the 500mm extrusion screwing M3x10mm SHCS into the spring t-nuts inside the profil](../img/x_axis_assembly/y_axis_step_27.png){: .shadow}{: .shadow}
+![fasten the MGN15 500mm Rails to the 500mm extrusion screwing M3x10mm SHCS into the spring t-nuts inside the profil](../img/x_axis_assembly/y_axis_step_27.png){: .shadow}
 
 ---
 ## Bearing Block
@@ -29,7 +29,7 @@ Insert a 608ZZ bearing in the outside  of the X axis bearing block, then insert 
     them to be pushed into place flush within the bearing block. The flange provides axial
     force against the bearing block when the locking collars are tightened up.
 
-![insert 608ZZ bearing in the X axis bearing block and F608ZZ bearings on either side](../img/x_axis_assembly/y_axis_step_28.png){: .shadow}{: .shadow}
+![insert 608ZZ bearing in the X axis bearing block and F608ZZ bearings on either side](../img/x_axis_assembly/y_axis_step_28.png){: .shadow}
 
 ---
 ## Motor Mount
@@ -42,7 +42,7 @@ M5 Heat Insert
 
 Insert the M2.5, M3 and M5 heat-set inserts in the x axis motor mount. M2.5 inserts for the endstop switch mount, M3 inserts for the drag-chain mount, and M5 inserts to mount the motor.
 
-![insert the M2.5,M3,M5 heat-set inserts in the X axis motor mount](../img/x_axis_assembly/y_axis_step_29.png){: .shadow}{: .shadow}
+![insert the M2.5,M3,M5 heat-set inserts in the X axis motor mount](../img/x_axis_assembly/y_axis_step_29.png){: .shadow}
 
 ---
 
@@ -52,7 +52,7 @@ M5x12mm BHCS
 
 Fasten the X axis motor mount to the 500mm C-beam using 2 x M5x12mm BHCS.
 
-![fasten the X axis motor mount to the 500mm C-beam using 2 x M5x12mm BHCS](../img/x_axis_assembly/y_axis_step_30.png){: .shadow}{: .shadow}
+![fasten the X axis motor mount to the 500mm C-beam using 2 x M5x12mm BHCS](../img/x_axis_assembly/y_axis_step_30.png){: .shadow}
 
 ---
 ```
@@ -136,7 +136,8 @@ Fasten the X axis bearing block to the 500mm C-beam and the 4020 extrusions usin
 
 Using your fingers, press each locking collar towards each other - driving them into the face of each bearing with moderate to high pressure. Tighten the inner collar first before tightening the external side collar. This will ensure that the screw remains in the same position during use.
 
-_NOTE_: add some medium-strength thread-lock to the set screw.
+!!! note
+    Add some medium-strength thread-lock to the set screw.
 
 ![](../img/x_axis_assembly/y_axis_step_38_2.png){: .shadow}
 

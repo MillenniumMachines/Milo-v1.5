@@ -20,15 +20,19 @@ Have fun building your very first Milo.
 
 ## Bill of materials
 
-Provided [here](../../bom/sourcing_guide.md) is the bill of materials. Whilst we recommend that you try to stick to this list as much as possible, you're an adult (hopefully) and this is your machine. If there is a substitution that you think would lead to a better machine then do that. If there is a feature you don't feel is necessary then don't buy the parts for it.
+Provided [here](../../bom/sourcing_guide.md) is the bill of materials. Whilst we recommend that you try to stick to this list as much as possible, you're an adult (hopefully) and this is your machine. If there is a substitution that you think would lead to a better machine then feel free! If there is a feature you don't feel is necessary then don't buy the parts for it.
 
 Furthermore, there are options in the guide that are up to you to decide on, such as drivers, motors and even control boards. Do your research and find what you need to make your build work for you.
 
 ## Spindle selection
 
-Milo supports 2 sizes of spindle - 70mm or 65mm. These cover the 2 most common spindle sizes for a DIY mill of this type. In terms of what you're looking for when buying a spindle, you'll want a minimum of 800w of power. You can then decide how you want to control your spindle - the simplest types are router style spindles which use a switch and or selector knob and provide the easiest way of interfacing with your spindle, and the most complex way involves using a VFD. With this setup you have more granular control over your settings, and can use outputs on your control board to control the spindle itself.
+Milo supports 2 sizes of spindle - 70mm or 65mm. These cover the 2 most common spindle sizes for a DIY mill of this type. In terms of what you're looking for when buying a spindle, you'll want a minimum of 800w of power.
 
-_NOTE_: There are too many styles of spindle to realistically account for, so if the spindle mount doesn't support your spindle then design a new one and send it our way and we may include it as an official user mod.
+You can then decide how you want to control your spindle - the simplest types are router style spindles which use a switch and or selector knob for manual control of speed and direction. The most complex but also most powerful way involves using a Spindle and VFD combination. With this setup you have more granular control over your settings, and can use outputs on your control board to control the spindle itself.
+
+
+!!! note
+    There are too many styles of spindle to realistically account for, so if the spindle mount doesn't support your spindle then design a new one and send it our way and we may include it as an official user mod!
 
 ---
 
@@ -81,6 +85,19 @@ To make some features printable without support, some holes are printed with a s
 ## T-Nuts application
 
 This machine requires an immense amount of T-nuts. In the interest of simplifying this manual, we have chosen to omit the installation of T-nuts. Wherever a part interfaces with an extrusion in a way that looks like it requires a T-nut, then it should be considered a part that requires a T-nut.
+
+## Linear Rail carriages
+
+Linear rail carriages use small ball-bearings to glide smoothly along the profile in the rail. If any of your carriages feel 'gritty' when moving, you should remove the carriages from the rail and give them a good clean with contact cleaner, brake cleaner or another similar non-corrosive degreaser.
+
+
+You must make sure that your carriages are appropriately greased before running your machine. Liberal application of EP2 grease to the carriages will do the trick.
+
+!!! warning
+    Use a [dummy rail](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main//STL%20Files/Tools/Dummy%20Rail.stl) when removing carriages from the rail. Searching for tiny ball-bearings when they go bouncing around your garage is not a fun experience!
+
+!!! tip
+    Turn each rail upside down and put a carriage directly over one of the screw holes. You can then use a small syringe to inject grease directly into the carriage. When you start to see grease coming out along the rails you're done.
 
 ---
 

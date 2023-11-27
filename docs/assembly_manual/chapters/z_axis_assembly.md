@@ -26,26 +26,31 @@ Extrusions `A` and `B` are the main Z-column extrusions.
 ---
 ## Installing the column plates
 
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
     20 x M5x12mm BHCS
-     1 x Joining Plate B
-     1 x Joining Plate C
-     1 x Joining Plate B Mirror
-     1 x Joining Plate C Mirror
+     1 x Joining Plate B        (1)
+     1 x Joining Plate C        (2)
+     1 x Joining Plate B Mirror (3)
+     1 x Joining Plate C Mirror (4)
     ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. Print this part using the [recommended settings](../../printing/print_guide.md)!
+3. Print this part using the [recommended settings](../../printing/print_guide.md)!
+4. Print this part using the [recommended settings](../../printing/print_guide.md)!
 
-Place extrusions `A` and `B` facing each other, creating an internal channel. This is where the ballast box can be installed (later!).
+
+Place extrusions `A` and `B` facing each other, creating an internal channel. This is where the ballast box can be installed (later, calm down cowboy!).
 
 Install Joining Plate B and Joining Plate C on one side, using M5x12 BHCS to hold the extrusions together.
 
 ![](../img/z_axis_assembly/y_axis_step_46.png){: .shadow}
 
 
+---
+
 !!! tip
     Make sure there is a `67mm` vertical spacing between the lower and upper column plates. The top of the thin part of the uppermost column plate should be flush with the top surface of the C-Beams.
-
----
 
 ![](../img/z_axis_assembly/y_axis_step_47.png){: .shadow}
 
@@ -98,11 +103,13 @@ At this point, you can install Joining Plate B Mirror and Joining Plate C Mirror
 ---
 ## Lower Bearing Block
 
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
-    1 x 608ZZ bearing
     4 x M5x12mm BHCS
+    1 x 608ZZ bearing
+    1 x Lower Bearing Block (1)
     ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Push the 608ZZ bearing into the bearing block until it is flush.
 
@@ -120,11 +127,14 @@ Use M5x12mm BHCS to attach the bearing block to the bottom of extrusion `C`.
 
 The ballast box is designed to house a damping load such as sand or epoxy granite. It is not a requirement but is recommended.
 
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
-    1 x Ballast Box
-    1 x Ballast Cap
+    1 x Ballast Box (1)
+    1 x Ballast Cap (2)
     ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. Print this part using the [recommended settings](../../printing/print_guide.md)!
+
 ![](../img/z_axis_assembly/y_axis_step_56.png){: .shadow}
 
 !!! tip
@@ -143,13 +153,15 @@ The ballast box is designed to house a damping load such as sand or epoxy granit
 
 ## Z-Axis Anti-Backlash Nut
 
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
-    2 x M5 Heat-set Insert
     4 x M3 Heat-Set Insert
     4 x M3x8mm SHCS
+    2 x M5 Heat-set Insert
     2 x Brass leadscrew nut
+    1 x Z-Axis Anti-Backlash Nut (1)
     ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Insert the M3 and M5 heat-set inserts in the Z Axis Anti-Backlash Nut.
 <!-- This image is reused from the y axis assembly on purpose -->
@@ -184,6 +196,17 @@ Place a locking collar onto the bottom of the lead-screw, and lock it in place. 
 ---
 ## Z-Axis Rails and Lead Screw
 
+!!! info annotate "Components Required"
+    ```
+    1 x M3 Heat-Set Insert
+    4 x M3x8mm SHCS
+    2 x M5 Heat-set Insert
+    2 x Brass Lead-screw Nut
+    1 x Z-Axis Lead-screw
+    1 x Z-Axis Anti-Backlash Nut (1)
+    ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
+
 Install the Z rails with only the lower carriages installed onto the frontmost extrusion.
 
 Use printed [rail alignment guides](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Tools/Rail%20Alignment%20Guide.stl) to make sure the rails are aligned.
@@ -209,16 +232,18 @@ Install the upper rail carriages onto the Z rails, above the anti-backlash nut.
 
 ## Z-Axis Mounting Plate and Motor Mount
 
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
-        16 x M3x5mm SHCS
-         2 x M5x16mm BHCS
-         2 x 608ZZ Bearing
-         2 x M2.5 Heat-set Insert
-         1 x Z-Axis Mounting Plate
-         1 x Z-Axis Motor Mount
-         1 x GT2 40T Pulley
+    16 x M3x5mm SHCS
+     2 x M5x16mm BHCS
+     2 x 608ZZ Bearing
+     2 x M2.5 Heat-set Insert
+     1 x GT2 40T Pulley
+     1 x Z-Axis Mounting Plate (1)
+     1 x Z-Axis Motor Mount    (2)
     ```
+1. For additional strength this part should be machined, but can be printed using the [recommended settings](../../printing/print_guide.md) if necessary.
+2. Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Install the Z-Axis mounting plate onto the anti-backlash nut using M5x16mm BHCS.
 
@@ -273,7 +298,6 @@ Remember to apply medium-strength thread-lock to all the grub screws!
     1 x GT2 20T Pulley
     1 x 200mm GT2 Belt
     ```
-Fasten the GT2 20T Pulley onto the Z motor shaft.
 
 ![](../img/z_axis_assembly/y_axis_step_69.png){: .shadow}
 
@@ -296,11 +320,12 @@ Attach the motor using M5x20mm BHCS with M5 washers and Nyloc nuts on the upper 
 ---
 ## Z Reinforcement Bracket
 
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
     4 x M5x12mm BHCS
-    2 x Z Reinforcement Bracket
+    2 x Z Reinforcement Bracket (1)
     ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Place the Z Reinforcement Brackets under the Z motor as shown below.
 
@@ -320,13 +345,15 @@ And at the top using M5x12mm BHCS.
 
 ---
 ## Cable Management
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
     3 x M3 Heat-set Insert
     2 x M5x12mm BHCS
-    1 x Z Drag-Chain Mount
-    1 x Z Wire Redirect Hook
+    1 x Z Drag-Chain Mount   (1)
+    1 x Z Wire Redirect Hook (2)
     ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Install the M3 heat-set inserts into the Z Drag-Chain Mount.
 
@@ -340,14 +367,16 @@ Install the Z Drag-Chain mount and Wire Redirect Hook using M5x12mm BHCS.
 
 ---
 ## Joining Y and Z
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
     18 x M5x12mm BHCS
      1 x Assembled Y Axis
      1 x Assembled Z Axis
-     1 x Joining Plate A
-     1 x Joining Plate A Mirror
+     1 x Joining Plate A        (1)
+     1 x Joining Plate A Mirror (2)
     ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Attach the assembled Y and Z axis to each other using M5x12mm BHCS through the joining plates.
 
@@ -362,14 +391,16 @@ Attach the Y motor mount to the Z axis using M5x12mm BHCS.
 ---
 ## Spindle Mount
 
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
      4 x M5x100mm BHCS
      4 x M5 Washer
      2 x M3 Heat-set Insert
-     1 x Spindle Mount Part A
-     1 x Spindle Mount Part B
+     1 x Spindle Mount Part A (1)
+     1 x Spindle Mount Part B (2)
     ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Install M3 Heat-set inserts into Spindle Mount Part B.
 
@@ -410,11 +441,12 @@ Attach M5 Nyloc nuts on the back side.
 
 ## Optional: Logo insert
 
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
-     1 x Millennium Machines Logo
+     1 x Millennium Machines Logo (1)
      1 x Glue
     ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 If you wish at this point, you can glue in your Millennium Machines Logo.
 
@@ -423,14 +455,15 @@ If you wish at this point, you can glue in your Millennium Machines Logo.
 ---
 
 ## Cable Management... Continued
-!!! info "Components Required"
+!!! info annotate "Components Required"
     ```
      6 x M3x6 FHCS
      3 x M3 Heat-set Insert
      2 x M5x12 BHCS
-     1 x Z Drag-Chain Mount B
+     1 x Z Drag-Chain Mount B (1)
      1 x Drag Chain
     ```
+1. Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Install the M3 Heat-set inserts into the Z Drag-Chain Mount B.
 

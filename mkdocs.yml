@@ -23,20 +23,24 @@ theme:
     text: Roboto
   icon:
     logo: fontawesome/solid/industry
+    annotation: material/printer-3d-nozzle-heat-outline
+  favicon: img/millennium-machines-icon.png
   palette:
     scheme: slate
     primary: red
     accent: custom
 
   features:
+    - content.code.annotate
     - content.action.edit
     - navigation.tracking
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
-  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

@@ -10,31 +10,47 @@
 
 The XY gantry plate is not an exact mirrored part, and therefore needs to be oriented in the right direction for correct installation..
 
-To make sure that the plate is installed the right way round, rotate the plate until counterbores "a" are facing upwards.
+To make sure that the plate is installed the right way round, rotate the plate until counterbores `A` are facing upwards.
 
-With the counterbores the right way round, locate hole "b" and make sure it is on the right side of the plate.
+With the counterbores the right way round, locate hole `B` and make sure it is on the right side of the plate.
 
-After this has been done, face "c" will now be oriented towards you. When installed, this face will be towards Y minimum (or towards the operator).
+After this has been done, face `C` will now be oriented towards you. When installed, this face will be towards `Y` minimum (or towards the operator).
 
 ---
+## X/Y Gantry Plate
 
-> M3x5mm SHCS
+!!! info "Components Required"
+    ```
+    16 x M3x10mm SHCS
+    12 x M3x5mm SHCS
+     4 x M3x20mm SHCS
+     4 x M3 Washer
+     4 x Rail Carriages
+     1 x X/Y Gantry Plate (machined or printed)
+     1 x X/Y Drag-Chain Transition (printed)
+
+    ```
+
+Attach the lower rail `Y` carriages using M3x5mm SHCS.
 
 ![screw the bottom carriages using M3x5mm SHCS](../img/y_axis_assembly/y_axis_step_1.png){: .shadow}
 
-> M3x10mm SHCS
+!!! note
+    Install the bolts from front to rear. The 4 holes furthest from you will not be populated at this stage, as these holes are also used to mount the cable channel on the rear of the plate.
+
+---
+
+Attach the upper rail `X` carriages using M3x10mm SHCS.
 
 ![screw the top carriages using M3x10mm SHCS](../img/y_axis_assembly/y_axis_step_2.png){: .shadow}
 
-## :warning: BE SAFE, LOCK IT!
+!!! warning "BE SAFE, LOCK IT!"
+    These machines vibrate an immense amount when in use, and fasteners are bound to back out. Don't be afraid to add a little bit of medium-strength thread-lock to all your screws to avoid this problem.
 
-These machines vibrate an immense amount when in use, and fasteners are bound to back out. Don't be afraid to add a little bit of medium-strength thread-lock to all your screws to avoid this problem.
+!!! warning "Protect your rail carriages"
+    Rail carriages should always have a rail or [dummy rail](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main//STL%20Files/Tools/Dummy%20Rail.stl) installed in them to avoid damaging them. If your rails didn't come with dummy rails, then print the ones we provided for you in the print list.
 
-## :warning: Protect your rail carriages
-
-![dummy rail](../img/hardware/dummy_rail.png){: .shadow}
-
-Rail carriages should always have a rail or dummy rail installed in them to avoid getting them damaged. If your rails didn't come with dummy rails, then print the ones we provided for you in the print list.
+    ![dummy rail](../img/hardware/dummy_rail.png){: .shadow}
 
 ---
 
@@ -220,7 +236,8 @@ Add the last locking collar on the operator side of the bearing block. Do not ti
 
 Using your fingers, press each locking collar towards each other - driving them into the face of each bearing with moderate to high pressure. Tighten the operator side collar first before tightening the internal side collar. This will ensure that the screw remains in the same position during use.
 
-_NOTE_: add some medium-strength thread-lock to the set screw.
+!!! note
+    Add some medium-strength thread-lock to the set screw.
 
 ![](../img/y_axis_assembly/y_axis_step_23.png){: .shadow}
 
@@ -264,7 +281,9 @@ It's a good time to mention that the little cutouts that you may have noticed sc
 ## Cable chain optional installation point
 
 You may wish to install the rest of the cable chain now to complete the Y axis, however it is often easier to thread your X axis motor and X endstop cables through the loose chain before installing it as it can become quite a tight space to work in later.
-_NOTE_: Remember this chain is for X axis cables despite being mentioned now during Y axis assembly.
+
+!!! note
+    Remember this chain is for X axis cables despite being mentioned now during Y axis assembly.
 
 ![](../img/y_axis_assembly/y_axis_step_26_3.png){: .shadow}
 
