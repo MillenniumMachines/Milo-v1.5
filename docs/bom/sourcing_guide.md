@@ -3,7 +3,7 @@
 ## Kits
 
 | **Category** | **Product**                                                                             | **Vendor**    | **Price** | **Link**                                                                                                               |
-|:-------------|-----------------------------------------------------------------------------------------|---------------|-----------|------------------------------------------------------------------------------------------------------------------------|
+|:-------------|-----------------------------------------------------------------------------------------|---------------|----------:|------------------------------------------------------------------------------------------------------------------------|
 | Frame        | Frame and electronics box extrusions                                                    | Fabreeko      | $199.99   | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millennium-milo-v1-5-frame-kit-pre-order)     |
 | Fasteners    | Millennium Milo V1.5 Hardware kit                                                       | Fabreeko      | $69.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millennium-milo-v1-5-hardware-kit-pre-order)  |
 | Fasteners    | Complete Fastener Kit DIY Project Fasteners Screws Nuts Full Kits for Milo-v1.5 Machine | Fysetc        | £44.83    | [Aliexpress](https://www.aliexpress.com/item/1005005142558345.html)                                                    |
@@ -12,6 +12,7 @@
 | Motion packs | Millennium Milo V1.5 Stainless steel Rail kit by HoneyBadger                            | Fabreeko      | $324.99   | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millennium-milo-v1-5-rail-kit-by-honeybadger) |
 | Motion packs | Millennium Mini Mill (Milo v1.5) bearing kit                                            | Fabreeko      | $14.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millenium-mini-mill-milo-v1-5-bearing-kit)    |
 | Motion packs | Millennium Mill V1.5 Motion pack of Motion parts                                        | CNA           | £222.11   | [Aliexpress](https://s.click.aliexpress.com/e/_Dkc32I3)                                                                |
+| Tooling      | Millennium Mill End Mill Starter Set (7 pcs)                                            | Dreanique     | £36.84    | [Aliexpress](https://s.click.aliexpress.com/e/_Dk96g5T)                                                                |
 
 ## Individual Parts
 
@@ -58,18 +59,21 @@
 
 ### Frame
 
-| **Component**                                  | **QTY** | **Recommended**                                                                  |
-|:-----------------------------------------------|--------:|----------------------------------------------------------------------------------|
-| Openbuilds 4080x470mm C-Beam profile extrusion | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 4080x260mm C-Beam profile extrusion | 2       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 4080x120mm C-Beam profile extrusion | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 4080x250mm C-Beam profile extrusion | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 4080x500mm C-Beam profile extrusion | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 2040x500mm extrusion                | 2       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/) |
-| Openbuilds 2080x550mm extrusion                | 3       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x80mm-cut-to-size/) |
-| Openbuilds 2040x580mm extrusion                | 2       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/) |
-| Openbuilds 2020x200mm extrusion                | 1       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) |
-| Angled corner connector 2020                   | 8       | [Aliexpress](https://s.click.aliexpress.com/e/_AMcqXp)                           |
+| **Component**                                                       | **QTY** | **Recommended**                                                                  |
+|:--------------------------------------------------------------------|--------:|----------------------------------------------------------------------------------|
+| Openbuilds 4080x470mm C-Beam extrusion                              | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 4080x260mm C-Beam extrusion for 60mm stock build **OR**  | 2       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 4080x320mm C-Beam extrusion for 120mm FMJ build          | 2       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 4080x120mm C-Beam extrusion                              | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 4080x250mm C-Beam extrusion                              | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 4080x500mm C-Beam extrusion                              | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 2040x500mm extrusion                                     | 2       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/) |
+| Openbuilds 2080x550mm extrusion                                     | 3       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x80mm-cut-to-size/) |
+| Openbuilds 2040x580mm extrusion                                     | 2       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/) |
+| Openbuilds 2020x200mm extrusion                                     | 1       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) |
+| Angled corner connector 2020                                        | 8       | [Aliexpress](https://s.click.aliexpress.com/e/_AMcqXp)                           |
+
+*[FMJ]: Full Metal Jacket - steel or aluminium plates which replace the 3D printed joining plates that hold the main column together, and allow the Z clearance of the mill to be extended to 120mm from the standard 60mm.
 
 ### Electronics
 
@@ -93,33 +97,33 @@
 | XY gantry plate                                    | 1       | [Fabreeko](https://www.fabreeko.com/products/millenium-minimill-xy-and-z-aluminum-plates)       |
 | Z gantry plate                                     | 1       | [Fabreeko](https://www.fabreeko.com/products/millenium-minimill-xy-and-z-aluminum-plates)       |
 | 200mm GT2 closed loop belt                         | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_ASjMnD)                                          |
-| MGN15 rail 350mm                                   | 2       | [CNA (Don't mix/match suppliers)](https://www.aliexpress.com/item/32804486221.html)             |
-| MGN15 rail 250mm                                   | 2       |                                                                                                 |
-| MGN15 rail 500mm                                   | 2       |                                                                                                 |
-| MGN15C rail carriage                               | 12      |                                                                                                 |
-| TR8x8 4 start leadscrew 550mm (min)                | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
-| TR8x8 4 start leadscrew 550mm (min)                | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
-| TR8x8 4 start leadscrew 300mm (min)                | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
-| TR8x8 4 start brass leadscrew nut                  | 6       | [Amazon](https://www.amazon.co.uk/Stainless-Threaded-printer-Accessories-Printer/dp/B0969QXZBB) |
+| MGN15 Rail 350mm                                   | 2       | [CNA (Don't mix/match suppliers)](https://www.aliexpress.com/item/32804486221.html)             |
+| MGN15 Rail 250mm                                   | 2       |                                                                                                 |
+| MGN15 Rail 500mm                                   | 2       |                                                                                                 |
+| MGN15C Rail Carriage                               | 12      |                                                                                                 |
+| TR8x8 4-Start Lead-screw 550mm (min)               | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
+| TR8x8 4-Start Lead-screw 550mm (min)               | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
+| TR8x8 4-Start Lead-screw 300mm (min)               | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
+| TR8x8 4 start Brass Lead-screw Nut                 | 6       | [Amazon](https://www.amazon.co.uk/Stainless-Threaded-printer-Accessories-Printer/dp/B0969QXZBB) |
 | GT2 20T (6mm wide) Pulley (6.35mm (1/4 inch) bore) | 1       | [Ooznest](https://ooznest.co.uk/product/2gt-pulleys/)                                           |
 | GT2 40T (6mm wide) Pulley (8mm bore)               | 1       | [Amazon](https://amzn.to/3wCXwwR)                                                               |
 | 608 2Z Shielded deep groove ball bearing           | 8       | [Aliexpress](https://s.click.aliexpress.com/e/_9fU0np)                                          |
 | F608 2Z Shielded deep groove ball bearing          | 4       | [Aliexpress](https://s.click.aliexpress.com/e/_AZj33d)                                          |
 | Spider or Rigid coupler 8mm to 6.35mm (1/4 inch)   | 2       | [Aliexpress](https://s.click.aliexpress.com/e/_AFwDq7)                                          |
-| 8mm Bore locking colar                             | 6       | [ACCU](https://www.accu.co.uk/adjusting-rings/396715-HAR-8-A2)                                  |
+| 8mm Bore locking collar                            | 6       | [ACCU](https://www.accu.co.uk/adjusting-rings/396715-HAR-8-A2)                                  |
 
 ### Cabling
 
 | **Component**                                      | **Standard**                | **QTY** | **Recommended**                                    |
 |:---------------------------------------------------|-----------------------------|--------:|----------------------------------------------------|
-| 10x11 Cable Chain - Openable (1m)                  |                             | 3       | [FYSETC](https://s.click.aliexpress.com/e/_AkGI1l) |
+| 10mmx11mm Cable Chain - Openable (1m)              |                             | 3       | [FYSETC](https://s.click.aliexpress.com/e/_AkGI1l) |
 | Nylon Cable Ties (less than 5mm wide)              |                             | 100     | [Amazon](https://amzn.to/3NmmzLt)                  |
 | 18AWG\* (min) Mains wiring (neutral, line, ground) |                             | 1       |                                                    |
 | 20AWG Silicone or PTFE Cable (25ft total)          |                             | 1       |                                                    |
 | 24AWG PTFE Cable (50ft total)                      |                             | 1       |                                                    |
 | Fork Spade Terminal                                | JST-FVDDF                   | 15      | [Amazon](https://amzn.to/37Ziyxk)                  |
-| Insulated Crimp Receptical                         | JST-FVDDF                   | 10      | [Amazon](https://amzn.to/37Ziyxk)                  |
-| Ferrule CableTerminations                          |                             | N/A     | [Amazon](https://amzn.to/3wu2NYK)                  |
+| Insulated Crimp Terminals                          | JST-FVDDF                   | 10      | [Amazon](https://amzn.to/37Ziyxk)                  |
+| Ferrule Connectors                                 |                             | N/A     | [Amazon](https://amzn.to/3wu2NYK)                  |
 | JST Connector 2 Position                           | JST-XH                      | 3       | [Amazon](https://amzn.to/3G0HRvs)                  |
 | JST Connector 4 Position                           | JST-XH                      | 3       | [Amazon](https://amzn.to/3G0HRvs)                  |
 

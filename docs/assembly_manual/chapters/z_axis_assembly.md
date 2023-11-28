@@ -34,10 +34,10 @@ Extrusions `A` and `B` are the main Z-column extrusions.
      1 x Joining Plate B Mirror (3)
      1 x Joining Plate C Mirror (4)
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
-2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
-3. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
-4. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#main-column)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#main-column)!
+3. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#main-column)!
+4. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#main-column)!
 
 
 Place extrusions `A` and `B` facing each other, creating an internal channel. This is where the ballast box can be installed (later, calm down cowboy!).
@@ -107,9 +107,9 @@ At this point, you can install Joining Plate B Mirror and Joining Plate C Mirror
     ```
     4 x M5x12mm BHCS
     1 x 608ZZ bearing
-    1 x Lower Bearing Block (1)
+    1 x Z-Axis Bearing Block (1)
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#z-axis-assembly)!
 
 Push the 608ZZ bearing into the bearing block until it is flush.
 
@@ -132,8 +132,8 @@ The ballast box is designed to house a damping load such as sand or epoxy granit
     1 x Ballast Box (1)
     1 x Ballast Cap (2)
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
-2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#main-column)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#main-column)!
 
 ![](../img/z_axis_assembly/y_axis_step_56.png){: .shadow}
 
@@ -162,7 +162,7 @@ The ballast box is designed to house a damping load such as sand or epoxy granit
     1 x Locking Collar
     1 x Z-Axis Anti-Backlash Nut (1)
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#z-axis-assembly)!
 
 Insert the M3 and M5 heat-set inserts in the Z Axis Anti-Backlash Nut.
 <!-- This image is reused from the y axis assembly on purpose -->
@@ -170,10 +170,10 @@ Insert the M3 and M5 heat-set inserts in the Z Axis Anti-Backlash Nut.
 
 ---
 
-Fasten the Brass leadscrew nuts on either side of the Z Axis Anti Backlash Nut using M3x8mm SHCS. Remember to apply medium-strength thread-lock!
+Fasten the Brass lead-screw nuts on either side of the Z Axis Anti Backlash Nut using M3x8mm SHCS. Remember to apply medium-strength thread-lock!
 
 <!-- This image is reused from the y axis assembly on purpose -->
-![Fasten the Brass leadscrew nuts on either side of the Z Axis Anti Backlash Nut using M3x8mm SHCS](../img/y_axis_assembly/y_axis_step_6.png){: .shadow}
+![Fasten the Brass lead-screw nuts on either side of the Z Axis Anti Backlash Nut using M3x8mm SHCS](../img/y_axis_assembly/y_axis_step_6.png){: .shadow}
 
 ---
 
@@ -183,7 +183,7 @@ Insert the lead-screw into the anti-backlash nut and set the preload using the s
 
 ---
 
-Place a locking collar onto the bottom of the lead-screw, and lock it in place. Remember to apply medium-strength thread-lock to the grub screws!
+Place a locking collar onto the bottom of the lead-screw, and lock it in place. Remember to apply medium-strength thread-lock to the grub-screws!
 
 ![](../img/z_axis_assembly/y_axis_step_59.png){: .shadow}
 
@@ -195,7 +195,7 @@ Place a locking collar onto the bottom of the lead-screw, and lock it in place. 
 ![](../img/z_axis_assembly/y_axis_step_60.png){: .shadow}
 
 ---
-## Z-Axis Rails and Lead Screw
+## Z-Axis Rails and Lead-screw
 
 !!! info annotate "Components Required"
     ```
@@ -204,9 +204,7 @@ Place a locking collar onto the bottom of the lead-screw, and lock it in place. 
     2 x M5 Heat-set Insert
     2 x Brass Lead-screw Nut
     1 x Z-Axis Lead-screw
-    1 x Z-Axis Anti-Backlash Nut (1)
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Install the Z rails with only the lower carriages installed onto the frontmost extrusion.
 
@@ -244,8 +242,8 @@ Install the upper rail carriages onto the Z rails, above the anti-backlash nut.
      1 x Z-Axis Mounting Plate (1)
      1 x Z-Axis Motor Mount    (2)
     ```
-1. For additional strength this part should be machined :material-saw-blade: but it can be printed :material-printer-3d-nozzle-heat-outline: using the [recommended settings](../../printing/print_guide.md) if necessary.
-2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. For additional strength this part should be machined :material-saw-blade: but it can be printed :material-printer-3d-nozzle-heat-outline: using the [recommended settings](../../printing/print_guide.md#z-axis-assembly) if necessary.
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#z-axis-assembly)!
 
 Install the Z-Axis mounting plate onto the anti-backlash nut using M5x16mm BHCS.
 
@@ -284,7 +282,7 @@ Fasten the GT2 40T Pulley onto the top of the lead-screw.
 
 With the Pulley attached above the bearings, you can now loosen off the locking collar below the bearings. Push it upwards until it contacts the lower bearing and lock it in place.
 
-Remember to apply medium-strength thread-lock to all the grub screws!
+Remember to apply medium-strength thread-lock to all the grub-screws!
 
 ![](../img/z_axis_assembly/y_axis_step_68.png){: .shadow}
 
@@ -306,7 +304,7 @@ Remember to apply medium-strength thread-lock to all the grub screws!
 
 ---
 
-When installing the Z motor, attach your belt loosely around your leadscrew pulley and then slide your Z motor in at an angle.
+When installing the Z motor, attach your belt loosely around your lead-screw pulley and then slide your Z motor in at an angle.
 
 ![](../img/z_axis_assembly/y_axis_step_70.png){: .shadow}
 
@@ -353,10 +351,10 @@ And at the top using M5x12mm BHCS.
     3 x M3 Heat-set Insert
     2 x M5x12mm BHCS
     1 x Z Drag-Chain Mount   (1)
-    1 x Z Wire Redirect Hook (2)
+    1 x Z Cable Redirect Hook (2)
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
-2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#cable-chain-mounts)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#cable-chain-mounts)!
 
 Install the M3 heat-set inserts into the Z Drag-Chain Mount.
 
@@ -364,30 +362,31 @@ Install the M3 heat-set inserts into the Z Drag-Chain Mount.
 
 ---
 
-Install the Z Drag-Chain mount and Wire Redirect Hook using M5x12mm BHCS.
+Install the Z Drag-Chain mount and Cable Redirect Hook using M5x12mm BHCS.
 
 ![](../img/z_axis_assembly/y_axis_step_75.png){: .shadow}
 
 ---
-## Joining Y and Z
+## Joining Y- and Z-Axes
+
 !!! info annotate "Components Required"
     ```
     18 x M5x12mm BHCS
-     1 x Assembled Y Axis
+     1 x Assembled Y-Axis
      1 x Assembled Z Axis
      1 x Joining Plate A        (1)
      1 x Joining Plate A Mirror (2)
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
-2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#main-column)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#main-column)!
 
-Attach the assembled Y and Z-Axis to each other using M5x12mm BHCS through the joining plates.
+Attach the assembled Y- and Z-Axes to each other using M5x12mm BHCS through the joining plates.
 
 ![](../img/z_axis_assembly/y_axis_step_76.png){: .shadow}
 
 ---
 
-Attach the Y motor mount to the Z-Axis using M5x12mm BHCS.
+Attach the Y Motor Mount to the Z-Axis using M5x12mm BHCS.
 
 ![](../img/y_axis_assembly/y_axis_step_77.png){: .shadow}
 
@@ -402,8 +401,8 @@ Attach the Y motor mount to the Z-Axis using M5x12mm BHCS.
      1 x Spindle Mount Part A (1)
      1 x Spindle Mount Part B (2)
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
-2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#spindle-mount)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#spindle-mount)!
 
 Install M3 Heat-set inserts into Spindle Mount Part B.
 
@@ -449,7 +448,7 @@ Attach M5 Nyloc nuts on the back side.
      1 x Millennium Machines Logo (1)
      1 x Glue
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#spindle-mount)!
 
 If you wish at this point, you can glue in your Millennium Machines Logo.
 
@@ -466,7 +465,7 @@ If you wish at this point, you can glue in your Millennium Machines Logo.
      1 x Z Drag-Chain Mount B (1)
      1 x Drag Chain
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#cable-chain-mounts)!
 
 Install the M3 Heat-set inserts into the Z Drag-Chain Mount B.
 

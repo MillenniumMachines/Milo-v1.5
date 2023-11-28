@@ -1,6 +1,6 @@
-# Y Axis Assembly
+# Y-Axis Assembly
 
-![Y Axis Assembly](../img/y_axis_assembly/y_axis_assembly.png)
+![Y-Axis Assembly](../img/y_axis_assembly/y_axis_assembly.png)
 
 ---
 
@@ -30,8 +30,8 @@ After this has been done, face `C` will now be oriented towards you. When instal
      1 x XY Gantry Plate (1)
      1 x XY Drag-Chain Transition (2)
     ```
-1. For additional strength this part should be machined :material-saw-blade: but it can be printed :material-printer-3d-nozzle-heat-outline: using the [recommended settings](../../printing/print_guide.md) if necessary.
-2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. For additional strength this part should be machined :material-saw-blade: but it can be printed :material-printer-3d-nozzle-heat-outline: using the [recommended settings](../../printing/print_guide.md#y-axis-assembly) if necessary.
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#y-axis-assembly#cable-chain-mounts)!
 
 Attach the lower rail `Y` carriages using M3x5mm SHCS.
 
@@ -58,13 +58,13 @@ Attach the upper rail `X` carriages using M3x10mm SHCS.
 
 Insert the M3 Heat-set inserts into the XY Drag-Chain Transition.
 
-![insert the M3 heat-set inserts in the XY dragchain transition](../img/y_axis_assembly/y_axis_step_3.png){: .shadow}
+![insert the M3 heat-set inserts in the XY Drag Chain Transition](../img/y_axis_assembly/y_axis_step_3.png){: .shadow}
 
 ---
 
 Fasten the XY Drag-Chain Transition to the XY plate using M3x20mm SHCS and one M3 washer each.
 
-![fasten the XY dragchain transition to the XY plate using M3x20mm SHCS stacked with one M3 washer](../img/y_axis_assembly/y_axis_step_4.png){: .shadow}
+![fasten the XY Drag Chain Transition to the XY plate using M3x20mm SHCS stacked with one M3 washer](../img/y_axis_assembly/y_axis_step_4.png){: .shadow}
 
 ---
 ## X and Y Anti-Backlash Nuts
@@ -82,13 +82,13 @@ Fasten the XY Drag-Chain Transition to the XY plate using M3x20mm SHCS and one M
 
 Insert the M3 and M5 heat-set inserts into the Y-Axis Anti-Backlash Nut.
 
-![insert the M3 and M5 heat-set inserts in the Y Axis Anti-Backlash Nut](../img/y_axis_assembly/y_axis_step_5.png){: .shadow}
+![insert the M3 and M5 heat-set inserts in the Y-Axis Anti-Backlash Nut](../img/y_axis_assembly/y_axis_step_5.png){: .shadow}
 
 ---
 
 Fasten the Lead-screw nuts loosely on either side of the Y-Axis Anti-Backlash Nut using M3x8mm SHCS.
 
-![fasten the Brass leadscrew nuts on either side of the Y Axis Anti-Backlash Nut using M3x8mm SHCS](../img/y_axis_assembly/y_axis_step_6.png){: .shadow}
+![fasten the Brass lead-screw nuts on either side of the Y-Axis Anti-Backlash Nut using M3x8mm SHCS](../img/y_axis_assembly/y_axis_step_6.png){: .shadow}
 
 ---
 
@@ -100,13 +100,13 @@ Insert the M3 and M5 heat-set inserts into the X-Axis Anti-Backlash Nut.
 
 Fasten the Lead-screw nuts loosely on either side of the X-Axis Anti-Backlash Nut using M3x8mm SHCS.
 
-![fasten the Brass leadscrew nuts on either side of the X-Axis Anti-Backlash Nut using M3x8mm SHCS](../img/y_axis_assembly/y_axis_step_8.png){: .shadow}
+![fasten the Brass lead-screw nuts on either side of the X-Axis Anti-Backlash Nut using M3x8mm SHCS](../img/y_axis_assembly/y_axis_step_8.png){: .shadow}
 
 ---
 
 Fasten the Y-Axis Anti-Backlash Nut to the bottom of the XY plate using M5x16mm BHCS.
 
-![fasten the Y Axis Anti-Backlash Nut to the bottom of the XY plate using M5x16mm BHCS](../img/y_axis_assembly/y_axis_step_9.png){: .shadow}
+![fasten the Y-Axis Anti-Backlash Nut to the bottom of the XY plate using M5x16mm BHCS](../img/y_axis_assembly/y_axis_step_9.png){: .shadow}
 
 ---
 
@@ -116,16 +116,16 @@ Fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHC
 
 !!! warning "Anti-Backlash Preload Tuning"
 
-    Each axis uses anti-backlash[^1] blocks in order to compensate for changes in screw direction during operation. They do this by driving 2 brass TR8x8 lead screw nuts towards each other to engage both sides of the lead screw threads.
+    Each axis uses anti-backlash[^1] blocks in order to compensate for changes in screw direction during operation. They do this by driving 2 brass TR8x8 lead-screw nuts towards each other to engage both sides of the lead-screw threads.
 
-    In order for this to work the preload required to drive each nut needs to be tuned by hand. To tune the preload make sure the lead-screws are greased appropriately, then install the 2 brass TR8x8 lead screw nuts within the anti backlash block.
+    In order for this to work the preload required to drive each nut needs to be tuned by hand. To tune the preload make sure the lead-screws are greased appropriately, then install the 2 brass TR8x8 lead-screw nuts within the anti backlash block.
 
     Tighten the screws on one of the nuts so that it does not move, while leaving the other nut loose.
 
-    Install the greased lead screw temporarily into the block and begin to tighten the loose nut, taking care to apply the same number of turns to each of the screws.
+    Install the greased lead-screw temporarily into the block and begin to tighten the loose nut, taking care to apply the same number of turns to each of the screws.
 
-    The ideal preload will allow for the leadscrew to still spin by hand but should have a moderate amount of resistance to it.
-    Once complete make sure each bolt has thread-lock applied, and uninstall the leadscrew - your preload is now set. To avoid any headaches, do this before final installation.
+    The ideal preload will allow for the lead-screw to still spin by hand but should have a moderate amount of resistance to it.
+    Once complete make sure each bolt has thread-lock applied, and uninstall the lead-screw - your preload is now set. To avoid any headaches, do this before final installation.
 
 [^1]: Yes technically it's a "zero backlash" nut and not an "anti-backlash nut", but the common term for it is anti-backlash and that's what most people know it as.
 
@@ -143,12 +143,12 @@ Fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHC
      1 x Y-Axis Motor Mount (1)
      1 x Y-Axis Bearing Block (2)
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
-2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#y-axis-assembly)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#y-axis-assembly)!
 
 Insert the M5 heat-set inserts into the Y-Axis Motor Mount.
 
-![insert the M5 heat-set inserts in the Y Axis Motor Mount](../img/y_axis_assembly/y_axis_step_12.png){: .shadow}
+![insert the M5 heat-set inserts in the Y-Axis Motor Mount](../img/y_axis_assembly/y_axis_step_12.png){: .shadow}
 
 !!! tip
     The motor mount has been redesigned so yours will be shorter than the one in this image. On the shorter mount, the heat-set inserts can be installed from the flat side of the mount (the side that printed against the bed).
@@ -159,7 +159,7 @@ Insert the M5 heat-set inserts into the Y-Axis Motor Mount.
 
 Insert the M2.5 heat-set inserts into the Y-Axis Bearing Block.
 
-![insert the M2.5 heat-set inserts in the Y Axis Bearing Block](../img/y_axis_assembly/y_axis_step_12_1.png){: .shadow}
+![insert the M2.5 heat-set inserts in the Y-Axis Bearing Block](../img/y_axis_assembly/y_axis_step_12_1.png){: .shadow}
 
 ---
 
@@ -245,10 +245,10 @@ Install the Y-Axis Bearing Block for the final time using M5x12mm BHCS. Be sure 
 
 Using an 8 to 6.35mm rigid coupler, attach the 550mm lead-screw to the NEMA23 motor.
 
-![couple the NEMA23 motor to the 550mm leadscrew using a 8 to 6.35mm rigid coupler](../img/y_axis_assembly/y_axis_step_11.png){: .shadow}
+![couple the NEMA23 motor to the 550mm lead-screw using a 8 to 6.35mm rigid coupler](../img/y_axis_assembly/y_axis_step_11.png){: .shadow}
 
 !!! warning
-    Remember to apply medium-strength thread-lock to the coupler grub screws. There's nothing worse than trying to diagnose a stationary axis and noticing that your motor is spinning but nothing else is!
+    Remember to apply medium-strength thread-lock to the coupler grub-screws. There's nothing worse than trying to diagnose a stationary axis and noticing that your motor is spinning but nothing else is!
 
 ---
 
@@ -258,7 +258,7 @@ From the back of the Y-Axis assembly, insert the screw and motor assembly. Be su
 
 ---
 
-Before pushing the leadscrew through the bearing block, add a locking collar to the inside bearing face. Leave this loose.
+Before pushing the lead-screw through the bearing block, add a locking collar to the inside bearing face. Leave this loose.
 
 ![](../img/y_axis_assembly/y_axis_step_20_1.png){: .shadow}
 
@@ -283,19 +283,19 @@ Add the last locking collar on the operator side of the bearing block.
 Using your fingers, press each locking collar towards each other - driving them into the face of each bearing with moderate to high pressure. Tighten the operator side collar first before tightening the internal side collar. This will ensure that the screw remains in the same position during use.
 
 !!! note
-    Add some medium-strength thread-lock to the set screw.
+    Add some medium-strength thread-lock to the set-screw.
 
 ![](../img/y_axis_assembly/y_axis_step_23.png){: .shadow}
 
 ---
 
-To avoid the Y-Axis endstop getting damaged during the rest of the assembly, its a good idea to install it later with the rest of the wiring.
+To avoid the Y-Axis endstop getting damaged during the rest of the assembly, it is a good idea to install it later with the rest of the wiring.
 
 ![](../img/y_axis_assembly/y_axis_step_23_1.png){: .shadow}
 
 ---
 
-## Y Axis Drag Chain
+## Y-Axis Drag Chain
 
 
 !!! info annotate "Components Required"
@@ -305,32 +305,32 @@ To avoid the Y-Axis endstop getting damaged during the rest of the assembly, its
      1 x 10mm x 11mm Cable Chain
      1 x Y Drag Chain Mount (1)
     ```
-1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md#cable-chain-mounts)!
 
-Insert the M3 heat-set inserts into the Y Drag Chain Mount.
+Insert the M3 heat-set inserts into the Y-Axis Drag Chain Mount.
 
-![insert the M3 heat-set inserts in the Y dragchain mount](../img/y_axis_assembly/y_axis_step_24.png){: .shadow}
+![insert the M3 heat-set inserts in the Y-Axis Drag Chain Mount](../img/y_axis_assembly/y_axis_step_24.png){: .shadow}
+
+---
+
+Fasten the Y Drag Chain Mount to the left hand side of the Y-Axis profile using an M5x12mm BHCS and a spring T-nut.
+
+![fasten the Y Drag Chain Mount to the 470mm profile using a M5x12mm BHCS and a spring t-nut](../img/y_axis_assembly/y_axis_step_25.png){: .shadow}
 
 ---
 
-Fasten the Y Drag Chain Mount to the left hand side of the Y Axis profile using an M5x12mm BHCS and a spring T-nut.
-
-![fasten the Y dragchain mount to the 470mm profile using a M5x12mm BHCS and a spring t-nut](../img/y_axis_assembly/y_axis_step_25.png){: .shadow}
-
----
+Fasten one end-link of the drag chain to the Y-Axis Drag Chain Mount using M3x6mm FHCS.
 
 !!! note "Drag chain orientation"
     Drag chains have 2 different sides - a fixed side and a free side. For this setup, the free side is connected to the rear drag chain mount shown on the last image. The fixed side attaches itself under the XY Drag Chain Transition which is bolted to the back of the XY Gantry Plate.
 
-Fasten one end-link of the drag chain to the Y-Axis Drag Chain Mount using M3x6mm FHCS.
-
-![fasten one end link of the dragchain to the Y-Axis dragchain mount using 3 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_1.png){: .shadow}
+![fasten one end link of the dragchain to the Y-Axis Drag Chain Mount using 3 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_1.png){: .shadow}
 
 ---
 
-Fasten the other end link to the XY Drag Chain Transition using M3x6mm FHCS
+Fasten the other end link to the XY Drag Chain Transition using M3x6mm FHCS.
 
-![fasten the other end link of the dragchain to the XY-Axis dragchain transition using 2 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_1.png){: .shadow}
+![fasten the other end link of the dragchain to the XY-Axis Drag Chain Transition using 2 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_1.png){: .shadow}
 
 !!! tip
     It's a good time to mention that the little cutouts that you may have noticed scattered around the build are for your zip ties. Use these to secure your cables where necessary.
@@ -344,7 +344,6 @@ Fasten the other end link to the XY Drag Chain Transition using M3x6mm FHCS
 ## Cable Chain Installation Point (Optional)
 
 You may wish to install the rest of the cable chain now to complete the Y-Axis - but it is often easier to thread your X-Axis motor and endstop cables through the loose chain before installing it as it can become quite a tight space to work in later.
-
 
 !!! note
     Remember this chain is for X-Axis cables despite being mentioned now during Y-Axis assembly.

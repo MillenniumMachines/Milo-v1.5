@@ -12,9 +12,9 @@
 ## Y-Axis Assembly
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** |
 |----------|------------|-------------------------|--------------|--------------|----------------------|
-| [Y Axis Motor Mount             ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Y%20Axis%20STLs/Y%20Axis%20Motor%20Mount%20x1.stl)                           | 40%  | 1.6mm | ABS/ASA | 1 | N |
-| [Y Axis Bearing Block           ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Y%20Axis%20STLs/Y%20Axis%20Bearing%20Block%20x1.stl)                         | 40%  | 1.6mm | ABS/ASA | 1 | Y |
-| [Y Axis Anti Backlash Nut       ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Y%20Axis%20STLs/Y%20Axis%20Anti%20Backlash%20Nut%20x1.stl)                   | 40%  | 1.6mm | ABS/ASA | 1 | N |
+| [Y-Axis Motor Mount             ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Y%20Axis%20STLs/Y%20Axis%20Motor%20Mount%20x1.stl)                           | 40%  | 1.6mm | ABS/ASA | 1 | N |
+| [Y-Axis Bearing Block           ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Y%20Axis%20STLs/Y%20Axis%20Bearing%20Block%20x1.stl)                         | 40%  | 1.6mm | ABS/ASA | 1 | Y |
+| [Y-Axis Anti Backlash Nut       ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Y%20Axis%20STLs/Y%20Axis%20Anti%20Backlash%20Nut%20x1.stl)                   | 40%  | 1.6mm | ABS/ASA | 1 | N |
 
 ## Z-Axis Assembly
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** |

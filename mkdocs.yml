@@ -5,6 +5,7 @@ nav:
   - Home: index.md
   - Sourcing Guide: bom/sourcing_guide.md
   - Printing Guide: printing/print_guide.md
+  - Frequently Asked Questions: faq.md
   - Assembly Manual:
       - Acknowledgements: assembly_manual/chapters/acknowledgements.md
       - Introduction: assembly_manual/chapters/introduction.md
@@ -13,6 +14,8 @@ nav:
       - X-Axis Assembly: assembly_manual/chapters/x_axis_assembly.md
       - Z-Axis Assembly: assembly_manual/chapters/z_axis_assembly.md
       - Table Assembly: assembly_manual/chapters/table_assembly.md
+  - Electronics Manual:
+      - Introduction: electronics_manual/chapters/index.md
 
 extra_css:
   - stylesheets/extra.css
@@ -36,12 +39,14 @@ theme:
     - navigation.tracking
 
 markdown_extensions:
+  - abbr
   - attr_list
   - md_in_html
-  - pymdownx.superfences
   - admonition
-  - pymdownx.details
   - footnotes
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
