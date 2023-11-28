@@ -18,10 +18,13 @@ The X and Z axis dimensions are customisable but we don't recommend anything mor
 
     Extending the spindle outwards from the column any further than it already is would apply too much leverage against the column.
 
+---
 
 ### What materials can the Milo V1.5 be used with?
 
 This depends on the strength of your critical parts and the tooling you have, but the stock machine is capable of cutting wood and aluminium effectively. A machine with aluminium XY and Z gantry plates is even able to mill certain Steels (with caveats!).
+
+---
 
 ### What is the Full Metal Jacket?
 
@@ -33,20 +36,35 @@ If you want to start your build with the FMJ, you will need to obtain 2 x 4080x3
 
 *[FMJ]: Full Metal Jacket
 
+---
+
+### Can I print the 3D printed parts out of Rainbow PLA / Orange PETG / Squeezy Cheese?
+You can do anything you want, it is your machine after all, but your choice of filament has a direct impact on the quality and accuracy of parts you will be able to make on Milo.
+
+The filament recommendations in the [BOM](./bom/sourcing_guide.md#printed-parts) are made for good reason - they have been tested by the design team over a long period of time and have been found to be stiff, strong and resilient where other filament choices were not.
+
+!!! warning
+    Using a different filament material will likely impact the strength and accuracy of your machine and this _could_ have safety implications.
+
+---
+
 ### Where are the STL files for the XY Gantry Plate and the Z Gantry Plate?
 
-There are none. This is a deliberate choice, as we strongly suggest new builds use machined plates - either from one of the [Kit suppliers](./bom/sourcing_guide.md#kits) or machined locally.
+There are none. This is a deliberate choice, as we strongly suggest new builds use machined plates - either from one of the [Kit suppliers](./bom/sourcing_guide.md#kits) or from another local source.
 
 These plates can be printed but their strength and accuracy will have a direct impact on the quality of parts you can produce with Milo, and they are the first two parts that should be upgraded to metal once you have the ability to make them.
 
-If you still want to print these, they can be extracted directly from the [CAD files](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/CAD/).
+These parts can be extracted directly from the [CAD files](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/CAD/) for local machining or printing.
 
+---
 
 ### Why no Ball-screws?
 
 Common ball-screw sizes just don't fit in the 4080 C-Beam that we use for the X,Y and Z axis mounts. We've looked high and low for a larger C-Beam that will fit them but can't find any. There are smaller 8 to 10mm ball-screws that do fit but they're expensive and will probably double the cost of the machine.
 
 There are user mods to convert the machine to ball-screws but this is pretty involved and involves grinding the ball-screw nuts to fit into the extrusion channels. Needless to say this isn't appropriate for a first Milo build :sweat_smile:
+
+---
 
 ### What Motors or Drivers should I use?
 
@@ -55,6 +73,8 @@ The parts outlined in the [Sourcing Guide](./bom/sourcing_guide.md#electronics) 
 If you want to size-up your motors then you will likely need to use bigger drivers, and you will be adding extra weight to each axis - every step up in size and power has a trade-off.
 
 If in any doubt, just follow the recommendations in the sourcing guide - build a working machine and start milling things, which will give you a good idea of where your machine is capable or could be upgraded for your particular use-case.
+
+---
 
 ### What Spindle / VFD should I use?
 
@@ -65,12 +85,15 @@ You should buy a VFD that matches the power requirement of your spindle. If you 
 !!! note
     Again, bigger is not always better. It is quite unlikely that you will be able to use the full power of a 2.2kW spindle, let alone a larger one on a machine of this size.
 
+---
+
 ### What End Mills should I buy?
 
 There's a lot to learn about end mills, but if you're looking to work with aluminium then the Dreanique Millennium Mill Starter Set is a great choice - you can find links to buy it in the [BOM](./bom/sourcing_guide.md#kits).
 
 If you're new to milling then you probably want to buy two sets :sweat_smile:
 
+---
 
 ## Millennium Machines
 
