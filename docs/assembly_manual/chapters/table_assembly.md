@@ -55,15 +55,16 @@ Make sure they sit flush with the front and back of the skirts.
 ---
 Install an M5 Heat-set insert into each table bolt-down bracket.
 
-![](../img/table_assembly/y_axis_step_91.png){: .shadow}
+![](../img/table_assembly/y_axis_step_90.1.png){: .shadow}
 
-!!! tip
-    If you want to raise your table, now is the time to install your TPU feet using M5x30mm BHCS!
 ---
 
 Use M5x12mm BHCS to attach the table bolt-down brackets to each corner of the electronics enclosure.
 
 ![](../img/table_assembly/y_axis_step_91.png){: .shadow}
+
+!!! tip
+    If you want to raise your table, now is the time to install your TPU feet using M5x30mm BHCS!
 
 ---
 !!! success ":fontawesome-solid-champagne-glasses: Congratulations!"
