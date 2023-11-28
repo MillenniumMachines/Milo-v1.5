@@ -28,11 +28,11 @@ This depends on the strength of your critical parts and the tooling you have, bu
 
 ### What is the Full Metal Jacket?
 
-The FMJ is a modification for the Milo V1.5 that replaces the 3D printed Z-Axis joining plates with steel or aluminium jackets on either side. This improves the weight, rigidity and accuracy of the main column significantly, allowing it to be extended up to 120mm of clearance over the table.
+The FMJ is a modification for the Milo V1.5 that replaces the 3D printed Z-Axis joining plates with steel or aluminium jackets on either side. This improves the weight, rigidity and accuracy of the main column significantly, allowing it to be extended up to a maximum of 120mm of clearance over the table.
 
 The FMJ is not part of the standard design as it cannot itself be machined on Milo V1.5 due to its' size.
 
-If you want to start your build with the FMJ, you will need to obtain 2 x 4080x320mm C-Beam extrusions instead of the standard 2 x 4080x260mm.
+The size of the FMJ is user-defined - if machining height is not of importance to you, you can use an FMJ with the original 60mm clearance. If you want your machine to have more clearance, then you will need to extend the length of the 2 x 4080x260mm C-Beam extrusions which make up the main column. A maximum clearance machine (120mm) needs 2 x 4080x320mm C-Beam extrusions.
 
 *[FMJ]: Full Metal Jacket
 

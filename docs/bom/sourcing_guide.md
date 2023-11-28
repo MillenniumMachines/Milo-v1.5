@@ -59,21 +59,20 @@
 
 ### Frame
 
-| **Component**                                                       | **QTY** | **Recommended**                                                                  |
-|:--------------------------------------------------------------------|--------:|----------------------------------------------------------------------------------|
-| Openbuilds 4080x470mm C-Beam extrusion                              | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 4080x260mm C-Beam extrusion for 60mm stock build **OR**  | 2       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 4080x320mm C-Beam extrusion for 120mm FMJ build          | 2       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 4080x120mm C-Beam extrusion                              | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 4080x250mm C-Beam extrusion                              | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 4080x500mm C-Beam extrusion                              | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
-| Openbuilds 2040x500mm extrusion                                     | 2       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/) |
-| Openbuilds 2080x550mm extrusion                                     | 3       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x80mm-cut-to-size/) |
-| Openbuilds 2040x580mm extrusion                                     | 2       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/) |
-| Openbuilds 2020x200mm extrusion                                     | 1       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) |
-| Angled corner connector 2020                                        | 8       | [Aliexpress](https://s.click.aliexpress.com/e/_AMcqXp)                           |
+| **Component**                                                                              | **QTY** | **Recommended**                                                                  |
+|:-------------------------------------------------------------------------------------------|--------:|----------------------------------------------------------------------------------|
+| Openbuilds 4080x470mm C-Beam extrusion                                                     | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 4080x260mm C-Beam extrusion (for more clearance with FMJ, extend to max. 320mm) | 2       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 4080x120mm C-Beam extrusion                                                     | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 4080x250mm C-Beam extrusion                                                     | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 4080x500mm C-Beam extrusion                                                     | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
+| Openbuilds 2040x500mm extrusion                                                            | 2       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/) |
+| Openbuilds 2080x550mm extrusion                                                            | 3       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x80mm-cut-to-size/) |
+| Openbuilds 2040x580mm extrusion                                                            | 2       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/) |
+| Openbuilds 2020x200mm extrusion                                                            | 1       | [Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) |
+| Angled corner connector 2020                                                               | 8       | [Aliexpress](https://s.click.aliexpress.com/e/_AMcqXp)                           |
 
-*[FMJ]: Full Metal Jacket - steel or aluminium plates which replace the 3D printed joining plates that hold the main column together, and allow the Z clearance of the mill to be extended to 120mm from the standard 60mm.
+*[FMJ]: Full Metal Jacket - steel or aluminium plates which replace the 3D printed joining plates that hold the main column together, and allow the Z clearance of the mill to be extended to a maximum of 120mm from the standard 60mm.
 
 ### Electronics
 
