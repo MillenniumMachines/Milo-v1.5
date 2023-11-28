@@ -70,3 +70,10 @@ You should buy a VFD that matches the power requirement of your spindle. If you 
 There's a lot to learn about end mills, but if you're looking to work with aluminium then the Dreanique Millennium Mill Starter Set is a great choice - you can find links to buy it in the [BOM](./bom/sourcing_guide.md#kits).
 
 If you're new to milling then you probably want to buy two sets :sweat_smile:
+
+
+## Millennium Machines
+
+### I've noticed an error in the documentation or want to suggest an improvement!
+
+Great! Please submit it as an issue on our [GitHub](https://github.com/MilleniumMills) under the relevant repository - or if you have the technical knowledge, we happily accept pull requests provided that they improve the content, relevance and accuracy of our documentation.
