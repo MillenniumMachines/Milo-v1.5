@@ -6,9 +6,12 @@
 
 The standard (and recommended) work envelope is 340mm in X, 160mm in Y, and 60mm in Z.
 
-The X and Z axis are customisable in size but we don't recommend anything more than 450-500mm in X and 80mm in Z with printed parts, and 120mm in Z with the Full Metal Jacket.
+The X and Z axis dimensions are customisable but we don't recommend anything more than 450-500mm in X and 80mm in Z with printed parts, and 120mm in Z with the Full Metal Jacket.
 
-!!! note
+!!! warning
+    If you want to extend your clearance in Z (the effective Z height), you will need to order longer C-Beam extrusions for the main column. This information is available in the [Sourcing Guide](./bom/sourcing_guide.md#frame).
+
+!!! abstract
     Milo is a 'table slinger' - the spindle is stationary in X and Y, and the work table moves underneath it. The X and Y axes cannot move through the XY Gantry plate so the work area is limited by the dimensions of the gantry plate _as well as_ the length and thickness of the table.
 
     It is important to note that the Y axis cannot be made any longer than it already is, because the size limitation on the Y axis is dictated by how far the spindle sits out towards the operator from the main column.
@@ -60,12 +63,10 @@ Most existing serialed builds are using round, 65 or 80mm, 1.5-2.2kW water-coole
 You should buy a VFD that matches the power requirement of your spindle. If you would like to control your spindle automatically via gcode, then you will need to find a VFD that has at least one digital input (for an enable signal) and one 0-10v analogue input (for controlling spindle RPM).
 
 !!! note
-    Again, bigger is not always better. Even the BOM spindles are heavy. It is very unlikely that you will be able to use the power of a 2.2kW spindle, let alone a larger one in a machine this size.
+    Again, bigger is not always better. It is quite unlikely that you will be able to use the full power of a 2.2kW spindle, let alone a larger one on a machine of this size.
 
 ### What End Mills should I buy?
 
-There's a lot to learn about end mills, but if you're looking to mill aluminium then the Dreanique Millennium Mill Starter Set is a great choice - you can find links to buy it in the [BOM](./bom/sourcing_guide.md#kits).
+There's a lot to learn about end mills, but if you're looking to work with aluminium then the Dreanique Millennium Mill Starter Set is a great choice - you can find links to buy it in the [BOM](./bom/sourcing_guide.md#kits).
 
 If you're new to milling then you probably want to buy two sets :sweat_smile:
-
-For aluminium you want low flute-count carbide end mills, ideally DLC coated, and you should bear in mind that our spindles are quite high speed - if a tool has a suggested speed of less than 8000rpm (the generally accepted safe minimum RPM of the BOM, VFD controlled spindles) then it is likely unsuitable for use with Milo.
