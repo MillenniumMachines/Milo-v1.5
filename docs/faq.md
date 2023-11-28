@@ -78,9 +78,9 @@ If in any doubt, just follow the recommendations in the sourcing guide - build a
 
 ### What Spindle / VFD should I use?
 
-Most existing serialed builds are using round, 65 or 80mm, 1.5-2.2kW water-cooled spindles as outlined in the p[BOM](./bom/sourcing_guide.md#electronics). These are the easiest spindles to source and fit.
+Most existing serialed builds are using round, 65 or 80mm, 1.5-2.2kW water-cooled spindles as outlined in the [BOM](./bom/sourcing_guide.md#electronics). These are the easiest spindles to source and fit.
 
-You should buy a VFD that matches the power requirement of your spindle. If you would like to control your spindle automatically via gcode, then you will need to find a VFD that has at least one digital input (for an enable signal) and one 0-10v analogue input (for controlling spindle RPM).
+You should buy a VFD that matches the power requirement of your spindle. If you would like to control your spindle automatically via gcode, then you will need to find a VFD that has at least one digital input (enable signal) and one 0-10v analogue input (spindle RPM control).
 
 !!! note
     Again, bigger is not always better. It is quite unlikely that you will be able to use the full power of a 2.2kW spindle, let alone a larger one on a machine of this size.
