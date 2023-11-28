@@ -4,11 +4,11 @@
 
 ---
 
-## X/Y Plate Orientation
+## XY Plate Orientation
 
-![X/Y plate](../img/y_axis_assembly/y_axis_step_0.png){: .shadow}
+![XY plate](../img/y_axis_assembly/y_axis_step_0.png){: .shadow}
 
-The X/Y gantry plate is not an exact mirrored part, and therefore needs to be oriented in the right direction for correct installation..
+The XY gantry plate is not an exact mirrored part, and therefore needs to be oriented in the right direction for correct installation..
 
 To make sure that the plate is installed the right way round, rotate the plate until counterbores `A` are facing upwards.
 
@@ -17,21 +17,21 @@ With the counterbores the right way round, locate hole `B` and make sure it is o
 After this has been done, face `C` will now be oriented towards you. When installed, this face will be towards `Y` minimum (or towards the operator).
 
 ---
-## X/Y Gantry Plate
+## XY Gantry Plate
 
 !!! info annotate "Components Required"
     ```
     16 x M3x10mm SHCS
     12 x M3x5mm SHCS
+     8 x MGN15 Rail Carriages
      5 x M5 Heat-set Insert
      4 x M3x20mm SHCS
      4 x M3 Washer
-     4 x Rail Carriages
-     1 x X/Y Gantry Plate (1)
-     1 x X/Y Drag-Chain Transition (2)
+     1 x XY Gantry Plate (1)
+     1 x XY Drag-Chain Transition (2)
     ```
 1. For additional strength this part should be machined :material-saw-blade: but it can be printed :material-printer-3d-nozzle-heat-outline: using the [recommended settings](../../printing/print_guide.md) if necessary.
-2. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Attach the lower rail `Y` carriages using M3x5mm SHCS.
 
@@ -56,13 +56,13 @@ Attach the upper rail `X` carriages using M3x10mm SHCS.
 
 ---
 
-Insert the M3 Heat-set inserts into the X/Y Drag-Chain Transition.
+Insert the M3 Heat-set inserts into the XY Drag-Chain Transition.
 
 ![insert the M3 heat-set inserts in the XY dragchain transition](../img/y_axis_assembly/y_axis_step_3.png){: .shadow}
 
 ---
 
-Fasten the X/Y Drag-Chain Transition to the X/Y plate using M3x20mm SHCS and one M3 washer each.
+Fasten the XY Drag-Chain Transition to the XY plate using M3x20mm SHCS and one M3 washer each.
 
 ![fasten the XY dragchain transition to the XY plate using M3x20mm SHCS stacked with one M3 washer](../img/y_axis_assembly/y_axis_step_4.png){: .shadow}
 
@@ -78,7 +78,7 @@ Fasten the X/Y Drag-Chain Transition to the X/Y plate using M3x20mm SHCS and one
      4 x M5x16mm BHCS
     ```
 1. For additional strength this part should be machined :material-saw-blade: but it can be printed :material-printer-3d-nozzle-heat-outline: using the [recommended settings](../../printing/print_guide.md) if necessary.
-2. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Insert the M3 and M5 heat-set inserts into the Y-Axis Anti-Backlash Nut.
 
@@ -104,13 +104,13 @@ Fasten the Lead-screw nuts loosely on either side of the X-Axis Anti-Backlash Nu
 
 ---
 
-Fasten the Y-Axis Anti-Backlash Nut to the bottom of the X/Y plate using M5x16mm BHCS.
+Fasten the Y-Axis Anti-Backlash Nut to the bottom of the XY plate using M5x16mm BHCS.
 
 ![fasten the Y Axis Anti-Backlash Nut to the bottom of the XY plate using M5x16mm BHCS](../img/y_axis_assembly/y_axis_step_9.png){: .shadow}
 
 ---
 
-Fasten the X-Axis Anti-Backlash Nut to the top of the X/Y plate using M5x16mm BHCS.
+Fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHCS.
 
 ![fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHCS](../img/y_axis_assembly/y_axis_step_9.png){: .shadow}
 
@@ -139,12 +139,12 @@ Fasten the X-Axis Anti-Backlash Nut to the top of the X/Y plate using M5x16mm BH
      2 x F608ZZ Bearing
      2 x M2.5 Heat-set Insert
      6 x M5x12mm BHCS
-     1 x Openbuilds C-Beam 470mm
+     1 x Openbuilds 4080 C-Beam - 470mm
      1 x Y-Axis Motor Mount (1)
      1 x Y-Axis Bearing Block (2)
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
-2. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Insert the M5 heat-set inserts into the Y-Axis Motor Mount.
 
@@ -165,13 +165,13 @@ Insert the M2.5 heat-set inserts into the Y-Axis Bearing Block.
 
 Insert a bearing stack (1 x F608ZZ and 2 x 608ZZ bearings) on either side of the Y-Axis Bearing Block. The flange of the F608ZZ bearings should sit flush with the bearing block faces on either side.
 
-![insert a bearing stack (composed of 1 F608ZZ bearing and 2 608ZZ Bearing) on either side of the Y axis bearing block](../img/y_axis_assembly/y_axis_step_12_2.png){: .shadow}
+![insert a bearing stack (composed of 1 F608ZZ bearing and 2 608ZZ Bearing) on either side of the Y-Axis bearing block](../img/y_axis_assembly/y_axis_step_12_2.png){: .shadow}
 
 ---
 
 Fasten the Y-Axis Motor Mount to the 470mm C-Beam using M5x12mm BHCS.
 
-![fasten the Y axis motor mount to the 470mm C-Beam aluminium profile using M5x12mm BHCS](../img/y_axis_assembly/y_axis_step_13.png){: .shadow}
+![fasten the Y-Axis motor mount to the 470mm C-Beam aluminium profile using M5x12mm BHCS](../img/y_axis_assembly/y_axis_step_13.png){: .shadow}
 
 ---
 
@@ -180,7 +180,7 @@ Fasten the Y-Axis bearing block to the other end of the 470mm C-Beam using M5x12
 !!! tip
     The Y-Axis Bearing Block is used as a stopper to install the rails - it will be removed later, so there is no need to thread-lock it at this point.
 
-![fasten the Y axis bearing block to the other end of the 470mm C-Beam aluminium profile using M5x12mm BHCS](../img/y_axis_assembly/y_axis_step_14.png){: .shadow}
+![fasten the Y-Axis bearing block to the other end of the 470mm C-Beam aluminium profile using M5x12mm BHCS](../img/y_axis_assembly/y_axis_step_14.png){: .shadow}
 
 ---
 
@@ -209,13 +209,13 @@ Fasten the MGN15 rails to the Y-Axis, screwing M3x10mm SHCS into every second ho
 
 ## Uninstall the Y-Axis Bearing Block
 
-The Y-Axis Bearing Block needs to be uninstalled before installing the X/Y Gantry Plate.
+The Y-Axis Bearing Block needs to be uninstalled before installing the XY Gantry Plate.
 
-![the Y axis bearing block is nowhere to be found in this picture](../img/y_axis_assembly/y_axis_step_16.png){: .shadow}
+![the Y-Axis bearing block is nowhere to be found in this picture](../img/y_axis_assembly/y_axis_step_16.png){: .shadow}
 
 ---
 
-Carefully, slide the X/Y Gantry Plate assembly onto the rails.
+Carefully, slide the XY Gantry Plate assembly onto the rails.
 
 ![carefully slide the XY plate assembly on the Y rails](../img/y_axis_assembly/y_axis_step_17.png){: .shadow}
 
@@ -239,7 +239,7 @@ Carefully, slide the X/Y Gantry Plate assembly onto the rails.
     ```
 Install the Y-Axis Bearing Block for the final time using M5x12mm BHCS. Be sure to use medium-strength thread-lock here.
 
-![fasten the Y axis bearing block to the other end of the 470mm C-Beam aluminium profile using M5x12mm BHCS](../img/y_axis_assembly/y_axis_step_18.png){: .shadow}
+![fasten the Y-Axis bearing block to the other end of the 470mm C-Beam aluminium profile using M5x12mm BHCS](../img/y_axis_assembly/y_axis_step_18.png){: .shadow}
 
 ---
 
@@ -268,7 +268,7 @@ Before pushing the leadscrew through the bearing block, add a locking collar to 
 
 Fasten the NEMA23 motor to the Y-Axis motor mount using M5x30 SHCS.
 
-![fasten the NEMA23 motor to the Y axis motor mount using M5x30 SHCS](../img/y_axis_assembly/y_axis_step_21.png){: .shadow}
+![fasten the NEMA23 motor to the Y-Axis motor mount using M5x30 SHCS](../img/y_axis_assembly/y_axis_step_21.png){: .shadow}
 
 ---
 
@@ -278,7 +278,7 @@ Add the last locking collar on the operator side of the bearing block.
 
 ---
 
-## Locking collar preload
+## Locking Collar Preload
 
 Using your fingers, press each locking collar towards each other - driving them into the face of each bearing with moderate to high pressure. Tighten the operator side collar first before tightening the internal side collar. This will ensure that the screw remains in the same position during use.
 
@@ -289,48 +289,65 @@ Using your fingers, press each locking collar towards each other - driving them 
 
 ---
 
-
-## Y-Axis Endstop Installation Process
-
-To avoid the endstop getting damaged during the rest of the assembly, its a good idea not to install it at this point, but rather install it later with the rest of the wiring.
+To avoid the Y-Axis endstop getting damaged during the rest of the assembly, its a good idea to install it later with the rest of the wiring.
 
 ![](../img/y_axis_assembly/y_axis_step_23_1.png){: .shadow}
 
 ---
 
-> M3 Heat Insert
+## Y Axis Drag Chain
+
+
+!!! info annotate "Components Required"
+    ```
+     6 x M3x6mm FHCS
+     3 x M3 Heat-set Insert
+     1 x 10mm x 11mm Cable Chain
+     1 x Y Drag Chain Mount (1)
+    ```
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+
+Insert the M3 heat-set inserts into the Y Drag Chain Mount.
 
 ![insert the M3 heat-set inserts in the Y dragchain mount](../img/y_axis_assembly/y_axis_step_24.png){: .shadow}
 
-> M5x12mm BHCS
+---
+
+Fasten the Y Drag Chain Mount to the left hand side of the Y Axis profile using an M5x12mm BHCS and a spring T-nut.
 
 ![fasten the Y dragchain mount to the 470mm profile using a M5x12mm BHCS and a spring t-nut](../img/y_axis_assembly/y_axis_step_25.png){: .shadow}
 
 ---
 
-## Drag chain orientation
+!!! note "Drag chain orientation"
+    Drag chains have 2 different sides - a fixed side and a free side. For this setup, the free side is connected to the rear drag chain mount shown on the last image. The fixed side attaches itself under the XY Drag Chain Transition which is bolted to the back of the XY Gantry Plate.
 
-Drag chains have 2 different sides - a fixed side and a free side. For this setup, the free side is connected to the rear drag chain mount shown on the last image. The fixed side attaches itself under the XY transition piece.
+Fasten one end-link of the drag chain to the Y-Axis Drag Chain Mount using M3x6mm FHCS.
 
-> M3x6mm FHCS
-
-![fasten one end link of the dragchain to the Y axis dragchain mount using 3 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_1.png){: .shadow}
-![fasten the other end link of the dragchain to the XY axis dragchain transition using 2 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_1.png){: .shadow}
+![fasten one end link of the dragchain to the Y-Axis dragchain mount using 3 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_1.png){: .shadow}
 
 ---
 
+Fasten the other end link to the XY Drag Chain Transition using M3x6mm FHCS
+
+![fasten the other end link of the dragchain to the XY-Axis dragchain transition using 2 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_1.png){: .shadow}
+
+!!! tip
+    It's a good time to mention that the little cutouts that you may have noticed scattered around the build are for your zip ties. Use these to secure your cables where necessary.
+
+---
+
+
 <!-- TODO do a composite image to replicate the zoom in done in the original manual -->
 
-## Cable tie points
 
-It's a good time to mention that the little cutouts that you may have noticed scattered around the build are for your zip ties. Use these to secure your cables where necessary.
+## Cable Chain Installation Point (Optional)
 
-## Cable chain optional installation point
+You may wish to install the rest of the cable chain now to complete the Y-Axis - but it is often easier to thread your X-Axis motor and endstop cables through the loose chain before installing it as it can become quite a tight space to work in later.
 
-You may wish to install the rest of the cable chain now to complete the Y axis, however it is often easier to thread your X axis motor and X endstop cables through the loose chain before installing it as it can become quite a tight space to work in later.
 
 !!! note
-    Remember this chain is for X axis cables despite being mentioned now during Y axis assembly.
+    Remember this chain is for X-Axis cables despite being mentioned now during Y-Axis assembly.
 
 ![](../img/y_axis_assembly/y_axis_step_26_3.png){: .shadow}
 

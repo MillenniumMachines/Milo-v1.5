@@ -3,22 +3,22 @@
 ## Kits
 
 | **Category** | **Product**                                                                             | **Vendor**    | **Price** | **Link**                                                                                                               |
-|--------------|-----------------------------------------------------------------------------------------|---------------|-----------|------------------------------------------------------------------------------------------------------------------------|
+|:-------------|-----------------------------------------------------------------------------------------|---------------|-----------|------------------------------------------------------------------------------------------------------------------------|
 | Frame        | Frame and electronics box extrusions                                                    | Fabreeko      | $199.99   | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millennium-milo-v1-5-frame-kit-pre-order)     |
-| Fatseners    | Millennium Milo V1.5 Hardware kit                                                       | Fabreeko      | $69.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millennium-milo-v1-5-hardware-kit-pre-order)  |
-| Fatseners    | Complete Fastener Kit DIY Project Fasteners Screws Nuts Full Kits for Milo-v1.5 Machine | Fysetc        | £44.83    | [Aliexpress](https://www.aliexpress.com/item/1005005142558345.html)                                                    |
-| Plates       | Millennium Minimill XY and Z Aluminum plates                                             | Fabreeko      | $59.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millenium-minimill-xy-and-z-aluminum-plates)  |
+| Fasteners    | Millennium Milo V1.5 Hardware kit                                                       | Fabreeko      | $69.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millennium-milo-v1-5-hardware-kit-pre-order)  |
+| Fasteners    | Complete Fastener Kit DIY Project Fasteners Screws Nuts Full Kits for Milo-v1.5 Machine | Fysetc        | £44.83    | [Aliexpress](https://www.aliexpress.com/item/1005005142558345.html)                                                    |
+| Plates       | Millennium Minimill XY and Z Aluminum plates                                            | Fabreeko      | $59.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millenium-minimill-xy-and-z-aluminum-plates)  |
 | Plates       | Millennium Mills Minimill XY and Z Aluminum Plates                                      | DeepFriedHero | $60.00    | [DFH store](https://dfh.fm/collections/new-products/products/millennium-mills-minimill-xy-and-z-aluminum-plates)       |
 | Motion packs | Millennium Milo V1.5 Stainless steel Rail kit by HoneyBadger                            | Fabreeko      | $324.99   | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millennium-milo-v1-5-rail-kit-by-honeybadger) |
-| Motion packs | Millennium Mini Mill (Milo v1.5) bearing kit                                             | Fabreeko      | $14.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millenium-mini-mill-milo-v1-5-bearing-kit)    |
-| Motion packs | Millennium Mill V1.5 Motion pack of Motion (main) parts                                  | CNA           | £222.11   | [Aliexpress](https://s.click.aliexpress.com/e/_Dkc32I3)                                                                |
+| Motion packs | Millennium Mini Mill (Milo v1.5) bearing kit                                            | Fabreeko      | $14.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millenium-mini-mill-milo-v1-5-bearing-kit)    |
+| Motion packs | Millennium Mill V1.5 Motion pack of Motion parts                                        | CNA           | £222.11   | [Aliexpress](https://s.click.aliexpress.com/e/_Dkc32I3)                                                                |
 
 ## Individual Parts
 
 ### Printed Parts
 
 | **Component**                  | **QTY** | **Recommended**                       |
-|--------------------------------|--------:|---------------------------------------|
+|:-------------------------------|--------:|---------------------------------------|
 | Primary Color Filament ABS/ASA | 2       | [Esun ABS+](https://amzn.to/3yU6ybo)  |
 | Accent Color Filament ABS/ASA  | 1       | [Esun ABS+](https://amzn.to/3NpYxze)  |
 | Primary Color Filament TPU     | 1       | [Eryone TPU](https://amzn.to/3wGjMGl) |
@@ -27,7 +27,7 @@
 ### Fasteners
 
 | **Component**                        | **Standard**                | **QTY** | **Recommended**                                                                                                                  | **Alternative 1**                                                                   |
-|--------------------------------------|-----------------------------|--------:|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+|:-------------------------------------|-----------------------------|--------:|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | M5x30 BHCS                           | ISO 7380-1                  | 4       | [ACCU](https://www.accu.co.uk/socket-button-screws/8155-SSB-M5-30-A2)                                                            |                                                                                     |
 | M5x16 BHCS                           | ISO 7380-1                  | 6       | [ACCU](https://www.accu.co.uk/socket-button-screws/8150-SSB-M5-16-A2)                                                            |                                                                                     |
 | M5x12 BHCS                           | ISO 7380-1                  | 131     | [ACCU](https://www.accu.co.uk/socket-button-screws/8148-SSB-M5-12-A2)                                                            |                                                                                     |
@@ -59,7 +59,7 @@
 ### Frame
 
 | **Component**                                  | **QTY** | **Recommended**                                                                  |
-|------------------------------------------------|--------:|----------------------------------------------------------------------------------|
+|:-----------------------------------------------|--------:|----------------------------------------------------------------------------------|
 | Openbuilds 4080x470mm C-Beam profile extrusion | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
 | Openbuilds 4080x260mm C-Beam profile extrusion | 2       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
 | Openbuilds 4080x120mm C-Beam profile extrusion | 1       | [Ooznest](https://ooznest.co.uk/product/c-beam-linear-rail-cut-to-size/)         |
@@ -73,45 +73,45 @@
 
 ### Electronics
 
-| **Component**                                                                 | **QTY** | **Recommended**                                                                                                                  | **Alternative 1**                                     | **Alternative 2**                                       | **Alternative 3**                  |
-|-------------------------------------------------------------------------------|--------:|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|------------------------------------|
-| 2.2kW Spindle 80mm                                                            | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_DkvmYox)                                                                          |                                                       |                                                         |                                    |
-| NEMA 23 motor 23HP22-2804S / 2303HS200AW / LDO-57STH56-2804AC                 | 3       | [Ooznest](https://ooznest.co.uk/product/NEMA23-stepper-motors/)                                                                  |                                                       |                                                         |                                    |
-| Omron SS-5GL micro switch                                                     | 3       | [Digikey](https://www.digikey.co.uk/en/products/detail/omron-electronics-inc-emc-div/SS-5GL/272367)                              |                                                       |                                                         |                                    |
-| Mean Well LRS-350-24 PSU                                                      | 1       | [Digikey](https://www.digikey.co.uk/en/products/detail/mean-well-usa-inc/LRS-350-24/7705034)                                     | [Amazon](https://amzn.to/39Bei7V)                     | [Aliexpress](https://s.click.aliexpress.com/e/_ASp8Z9)  |                                    |
-| IEC320 C14 Inlet - Push-fit - w/ Rocker Switch & Fuse                         | 1       | [Digikey](https://www.digikey.co.uk/en/products/detail/adam-tech/IEC-GS-1-100/9831135?s=N4IgTCBcDaIJIFEDCBaA4gZRQRhwBjxAF0BfIA)  |                                                       |                                                         |                                    |
-| 40x40 24V axial fan                                                           | 2       | [Amazon](https://www.amazon.co.uk/dp/B0757RPCN9)                                                                                 |                                                       |                                                         |                                    |
-| Micro SD card                                                                 | 1       | [Amazon](https://amzn.to/39yaWCr)                                                                                                |                                                       |                                                         |                                    |
-| Mellow fly e3 / mellow fly CDY V3.0 / BTT E3 RRF                              | 1       | [Fly CDY](https://s.click.aliexpress.com/e/_A7DZ7H)                                                                              | [Fly E3](https://s.click.aliexpress.com/e/_9IDXvD)    | [BTT E3 RRF](https://s.click.aliexpress.com/e/_DEk2KCr) |                                    |
-| 22mm E-stop switch actuator                                                   | 1       | [Amazon](https://amzn.to/3wtxQnz)                                                                                                |                                                       |                                                         |                                    |
-| TMC 2209 (2A RMS) / TMC 5160 (3A RMS) / TMC 2660 (2.4A RMS) / DRV 8825 (2.5A) | 3       | [TMC 2209](https://s.click.aliexpress.com/e/_DeW9bEf)                                                                            | [TMC 5160](https://s.click.aliexpress.com/e/_Dk9T675) | TMC2660                                                 | [DRV8825](https://amzn.to/3OEGSEi) |
+| **Component**                                                                 | **QTY** | **Recommended**                                                                                                                  | **Alternative 1**                                              | **Alternative 2**                                       | **Alternative 3**                             |
+|:------------------------------------------------------------------------------|--------:|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------|
+| 2.2kW Spindle 80mm                                                            | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_DkvmYox)                                                                          |                                                                |                                                         |                                               |
+| NEMA 23 motor 23HP22-2804S / 2303HS200AW / LDO-57STH56-2804AC                 | 3       | [Ooznest](https://ooznest.co.uk/product/NEMA23-stepper-motors/)                                                                  |                                                                |                                                         |                                               |
+| Omron SS-5GL micro switch                                                     | 3       | [Digikey](https://www.digikey.co.uk/en/products/detail/omron-electronics-inc-emc-div/SS-5GL/272367)                              |                                                                |                                                         |                                               |
+| Mean Well LRS-350-24 PSU                                                      | 1       | [Digikey](https://www.digikey.co.uk/en/products/detail/mean-well-usa-inc/LRS-350-24/7705034)                                     | [Amazon](https://amzn.to/39Bei7V)                              | [Aliexpress](https://s.click.aliexpress.com/e/_ASp8Z9)  |                                               |
+| IEC320 C14 Inlet - Push-fit - w/ Rocker Switch & Fuse                         | 1       | [Digikey](https://www.digikey.co.uk/en/products/detail/adam-tech/IEC-GS-1-100/9831135?s=N4IgTCBcDaIJIFEDCBaA4gZRQRhwBjxAF0BfIA)  |                                                                |                                                         |                                               |
+| 40x40 24V axial fan                                                           | 2       | [Amazon](https://www.amazon.co.uk/dp/B0757RPCN9)                                                                                 |                                                                |                                                         |                                               |
+| Micro SD card                                                                 | 1       | [Amazon](https://amzn.to/39yaWCr)                                                                                                |                                                                |                                                         |                                               |
+| Mellow Fly E3 / Mellow Fly CDY V3.0 / BTT E3 RRF                              | 1       | [Fly CDY](https://s.click.aliexpress.com/e/_A7DZ7H)                                                                              | [Fly E3](https://s.click.aliexpress.com/e/_9IDXvD)             | [BTT E3 RRF](https://s.click.aliexpress.com/e/_DEk2KCr) |                                               |
+| 22mm E-stop switch actuator                                                   | 1       | [Amazon](https://amzn.to/3wtxQnz)                                                                                                |                                                                |                                                         |                                               |
+| Motor Drivers                                                                 | 3       | [TMC 2209](https://s.click.aliexpress.com/e/_DeW9bEf) (2A RMS)                                                                   | [TMC 5160](https://s.click.aliexpress.com/e/_Dk9T675) (3A RMS) | TMC2660 (2.4A RMS)                                      | [DRV8825](https://amzn.to/3OEGSEi) (2.5A RMS) |
 
 ### Motion
 
-| **Component**                                     | **QTY** | **Recommended**                                                                                 |
-|---------------------------------------------------|--------:|-------------------------------------------------------------------------------------------------|
-| XY gantry plate                                   | 1       | [Fabreeko](https://www.fabreeko.com/products/millenium-minimill-xy-and-z-aluminum-plates)       |
-| Z gantry plate                                    | 1       | [Fabreeko](https://www.fabreeko.com/products/millenium-minimill-xy-and-z-aluminum-plates)       |
-| 200mm GT2 closed loop belt                        | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_ASjMnD)                                          |
-| MGN15 rail 350mm                                  | 2       | [CNA (Don't mix/match suppliers)](https://www.aliexpress.com/item/32804486221.html)             |
-| MGN15 rail 250mm                                  | 2       |                                                                                                 |
-| MGN15 rail 500mm                                  | 2       |                                                                                                 |
-| MGN15C rail carriage                              | 12      |                                                                                                 |
-| TR8x8 4 start leadscrew 550mm (min)               | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
-| TR8x8 4 start leadscrew 550mm (min)               | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
-| TR8x8 4 start leadscrew 300mm (min)               | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
-| TR8x8 4 start brass leadscrew nut                 | 6       | [Amazon](https://www.amazon.co.uk/Stainless-Threaded-printer-Accessories-Printer/dp/B0969QXZBB) |
-| GT2 20T (6mm wide) Pulley (6.35mm(1/4 inch) bore) | 1       | [Ooznest](https://ooznest.co.uk/product/2gt-pulleys/)                                           |
-| GT2 40T (6mm wide) Pulley (8mm bore)              | 1       | [Amazon](https://amzn.to/3wCXwwR)                                                               |
-| 608 2Z shielded deep groove ball bearing          | 8       | [Aliexpress](https://s.click.aliexpress.com/e/_9fU0np)                                          |
-| F608 2Z shielded deep groove ball bearing         | 4       | [Aliexpress](https://s.click.aliexpress.com/e/_AZj33d)                                          |
-| Spider or rigid coupler 8mm to 6.35mm (1/4 inch)  | 2       | [Aliexpress](https://s.click.aliexpress.com/e/_AFwDq7)                                          |
-| 8mm Bore locking colar                            | 6       | [ACCU](https://www.accu.co.uk/adjusting-rings/396715-HAR-8-A2)                                  |
+| **Component**                                      | **QTY** | **Recommended**                                                                                 |
+|:---------------------------------------------------|--------:|-------------------------------------------------------------------------------------------------|
+| XY gantry plate                                    | 1       | [Fabreeko](https://www.fabreeko.com/products/millenium-minimill-xy-and-z-aluminum-plates)       |
+| Z gantry plate                                     | 1       | [Fabreeko](https://www.fabreeko.com/products/millenium-minimill-xy-and-z-aluminum-plates)       |
+| 200mm GT2 closed loop belt                         | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_ASjMnD)                                          |
+| MGN15 rail 350mm                                   | 2       | [CNA (Don't mix/match suppliers)](https://www.aliexpress.com/item/32804486221.html)             |
+| MGN15 rail 250mm                                   | 2       |                                                                                                 |
+| MGN15 rail 500mm                                   | 2       |                                                                                                 |
+| MGN15C rail carriage                               | 12      |                                                                                                 |
+| TR8x8 4 start leadscrew 550mm (min)                | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
+| TR8x8 4 start leadscrew 550mm (min)                | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
+| TR8x8 4 start leadscrew 300mm (min)                | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
+| TR8x8 4 start brass leadscrew nut                  | 6       | [Amazon](https://www.amazon.co.uk/Stainless-Threaded-printer-Accessories-Printer/dp/B0969QXZBB) |
+| GT2 20T (6mm wide) Pulley (6.35mm (1/4 inch) bore) | 1       | [Ooznest](https://ooznest.co.uk/product/2gt-pulleys/)                                           |
+| GT2 40T (6mm wide) Pulley (8mm bore)               | 1       | [Amazon](https://amzn.to/3wCXwwR)                                                               |
+| 608 2Z Shielded deep groove ball bearing           | 8       | [Aliexpress](https://s.click.aliexpress.com/e/_9fU0np)                                          |
+| F608 2Z Shielded deep groove ball bearing          | 4       | [Aliexpress](https://s.click.aliexpress.com/e/_AZj33d)                                          |
+| Spider or Rigid coupler 8mm to 6.35mm (1/4 inch)   | 2       | [Aliexpress](https://s.click.aliexpress.com/e/_AFwDq7)                                          |
+| 8mm Bore locking colar                             | 6       | [ACCU](https://www.accu.co.uk/adjusting-rings/396715-HAR-8-A2)                                  |
 
 ### Cabling
 
 | **Component**                                      | **Standard**                | **QTY** | **Recommended**                                    |
-|----------------------------------------------------|-----------------------------|--------:|----------------------------------------------------|
+|:---------------------------------------------------|-----------------------------|--------:|----------------------------------------------------|
 | 10x11 Cable Chain - Openable (1m)                  |                             | 3       | [FYSETC](https://s.click.aliexpress.com/e/_AkGI1l) |
 | Nylon Cable Ties (less than 5mm wide)              |                             | 100     | [Amazon](https://amzn.to/3NmmzLt)                  |
 | 18AWG\* (min) Mains wiring (neutral, line, ground) |                             | 1       |                                                    |
@@ -126,7 +126,7 @@
 ### Misc
 
 | **Component**                              | **QTY** |
-|--------------------------------------------|--------:|
+|:-------------------------------------------|--------:|
 | Electronics Enclosure Acrylic Bottom Panel | 1       |
 | Epoxy Resin                                | 1L      |
 | Granite Sand                               | 1       |
@@ -141,20 +141,28 @@ It's only used for the machine feet. Maybe you can source suitable replacement p
 
 Use drivers that are suitable for your motor needs. Make sure to match your motor phase current to your driver max RMS current.
 
-#### X/Y Gantry Plate
+#### XY Gantry Plate
 
 !!! warning
     This part can be printed, but it is a critical, load-bearing part of the machine.
+    Any inaccuracy or weakness will be reflected in the accuracy and finish of
+    the parts you mill, so bear this in mind.
 
-    You should buy this plate from one of the [Kit suppliers](#kits) above. _If you print this plate, it should be one of the first components you upgrade.
+    You should buy this plate from one of the [Kit suppliers](#kits) above.
+
+    _If you print this plate, it should be one of the first components you upgrade._
+
 <!-- TODO provide a statement from the design team -->
 
 #### Z Gantry Plate
 
 !!! warning
-    Like the X/Y gantry plate, the Z gantry plate can be printed, but it is a critical, load-bearing part of the machine.
+    Like the XY gantry plate, the Z gantry plate can be printed, but it is a critical, load-bearing part of the machine.
 
-    You should buy this plate from one of the [Kit suppliers](#kits) above. _If you print this plate, it should be one of the first components you upgrade.
+    You should buy this plate from one of the [Kit suppliers](#kits) above.
+
+    _If you print this plate, it should be one of the first components you upgrade._
+
 <!-- TODO provide a statement from the design team -->
 
 #### Wiring

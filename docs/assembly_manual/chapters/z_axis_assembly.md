@@ -34,10 +34,10 @@ Extrusions `A` and `B` are the main Z-column extrusions.
      1 x Joining Plate B Mirror (3)
      1 x Joining Plate C Mirror (4)
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
-2. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
-3. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
-4. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+3. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+4. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 
 Place extrusions `A` and `B` facing each other, creating an internal channel. This is where the ballast box can be installed (later, calm down cowboy!).
@@ -109,7 +109,7 @@ At this point, you can install Joining Plate B Mirror and Joining Plate C Mirror
     1 x 608ZZ bearing
     1 x Lower Bearing Block (1)
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Push the 608ZZ bearing into the bearing block until it is flush.
 
@@ -132,8 +132,8 @@ The ballast box is designed to house a damping load such as sand or epoxy granit
     1 x Ballast Box (1)
     1 x Ballast Cap (2)
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
-2. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 ![](../img/z_axis_assembly/y_axis_step_56.png){: .shadow}
 
@@ -162,7 +162,7 @@ The ballast box is designed to house a damping load such as sand or epoxy granit
     1 x Locking Collar
     1 x Z-Axis Anti-Backlash Nut (1)
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Insert the M3 and M5 heat-set inserts in the Z Axis Anti-Backlash Nut.
 <!-- This image is reused from the y axis assembly on purpose -->
@@ -206,7 +206,7 @@ Place a locking collar onto the bottom of the lead-screw, and lock it in place. 
     1 x Z-Axis Lead-screw
     1 x Z-Axis Anti-Backlash Nut (1)
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Install the Z rails with only the lower carriages installed onto the frontmost extrusion.
 
@@ -245,7 +245,7 @@ Install the upper rail carriages onto the Z rails, above the anti-backlash nut.
      1 x Z-Axis Motor Mount    (2)
     ```
 1. For additional strength this part should be machined :material-saw-blade: but it can be printed :material-printer-3d-nozzle-heat-outline: using the [recommended settings](../../printing/print_guide.md) if necessary.
-2. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Install the Z-Axis mounting plate onto the anti-backlash nut using M5x16mm BHCS.
 
@@ -328,7 +328,7 @@ Attach the motor using M5x20mm BHCS with M5 washers and Nyloc nuts on the upper 
     4 x M5x12mm BHCS
     2 x Z Reinforcement Bracket (1)
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Place the Z Reinforcement Brackets under the Z motor as shown below.
 
@@ -355,8 +355,8 @@ And at the top using M5x12mm BHCS.
     1 x Z Drag-Chain Mount   (1)
     1 x Z Wire Redirect Hook (2)
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
-2. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Install the M3 heat-set inserts into the Z Drag-Chain Mount.
 
@@ -378,16 +378,16 @@ Install the Z Drag-Chain mount and Wire Redirect Hook using M5x12mm BHCS.
      1 x Joining Plate A        (1)
      1 x Joining Plate A Mirror (2)
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
-2. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
-Attach the assembled Y and Z axis to each other using M5x12mm BHCS through the joining plates.
+Attach the assembled Y and Z-Axis to each other using M5x12mm BHCS through the joining plates.
 
 ![](../img/z_axis_assembly/y_axis_step_76.png){: .shadow}
 
 ---
 
-Attach the Y motor mount to the Z axis using M5x12mm BHCS.
+Attach the Y motor mount to the Z-Axis using M5x12mm BHCS.
 
 ![](../img/y_axis_assembly/y_axis_step_77.png){: .shadow}
 
@@ -402,8 +402,8 @@ Attach the Y motor mount to the Z axis using M5x12mm BHCS.
      1 x Spindle Mount Part A (1)
      1 x Spindle Mount Part B (2)
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
-2. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Install M3 Heat-set inserts into Spindle Mount Part B.
 
@@ -449,7 +449,7 @@ Attach M5 Nyloc nuts on the back side.
      1 x Millennium Machines Logo (1)
      1 x Glue
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 If you wish at this point, you can glue in your Millennium Machines Logo.
 
@@ -466,7 +466,7 @@ If you wish at this point, you can glue in your Millennium Machines Logo.
      1 x Z Drag-Chain Mount B (1)
      1 x Drag Chain
     ```
-1. Print :material-printer-3d-nozzle-heat-outline: this part using the [recommended settings](../../printing/print_guide.md)!
+1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
 
 Install the M3 Heat-set inserts into the Z Drag-Chain Mount B.
 

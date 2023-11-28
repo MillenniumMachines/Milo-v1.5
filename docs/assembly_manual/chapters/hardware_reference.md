@@ -96,13 +96,13 @@ Nut that can be inserted into the slot of an aluminium profile. Used in both M3 
 
 ![20 tooth GT2 pulley wireframe](../img/hardware/20_tooth.png){: .shadow}
 
-Attached to the Z axis motor.
+Attached to the Z-Axis motor.
 
 ## 40 tooth GT2 pulley
 
 ![40 tooth GT2 pulley wireframe](../img/hardware/40_tooth.png){: .shadow}
 
-Used to drive the Z axis leadscrew from the 20 tooth pulley above.
+Used to drive the Z-Axis leadscrew from the 20 tooth pulley above.
 
 ## Brass leadscrew nut
 
