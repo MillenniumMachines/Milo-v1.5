@@ -7,11 +7,11 @@
 | Frame        | Frame and electronics box extrusions                                                    | Fabreeko      | $199.99   | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millennium-milo-v1-5-frame-kit-pre-order)     |
 | Fatseners    | Millennium Milo V1.5 Hardware kit                                                       | Fabreeko      | $69.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millennium-milo-v1-5-hardware-kit-pre-order)  |
 | Fatseners    | Complete Fastener Kit DIY Project Fasteners Screws Nuts Full Kits for Milo-v1.5 Machine | Fysetc        | £44.83    | [Aliexpress](https://www.aliexpress.com/item/1005005142558345.html)                                                    |
-| Plates       | Millenium Minimill XY and Z Aluminum plates                                             | Fabreeko      | $59.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millenium-minimill-xy-and-z-aluminum-plates)  |
+| Plates       | Millennium Minimill XY and Z Aluminum plates                                             | Fabreeko      | $59.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millenium-minimill-xy-and-z-aluminum-plates)  |
 | Plates       | Millennium Mills Minimill XY and Z Aluminum Plates                                      | DeepFriedHero | $60.00    | [DFH store](https://dfh.fm/collections/new-products/products/millennium-mills-minimill-xy-and-z-aluminum-plates)       |
 | Motion packs | Millennium Milo V1.5 Stainless steel Rail kit by HoneyBadger                            | Fabreeko      | $324.99   | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millennium-milo-v1-5-rail-kit-by-honeybadger) |
-| Motion packs | Millenium mini Mill (Milo v1.5) bearing kit                                             | Fabreeko      | $14.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millenium-mini-mill-milo-v1-5-bearing-kit)    |
-| Motion packs | Millenium Mill V1.5 Motion pack of Motion (main) parts                                  | CNA           | £222.11   | [Aliexpress](https://s.click.aliexpress.com/e/_Dkc32I3)                                                                |
+| Motion packs | Millennium Mini Mill (Milo v1.5) bearing kit                                             | Fabreeko      | $14.99    | [Fabreeko store](https://www.fabreeko.com/collections/mini-mill/products/millenium-mini-mill-milo-v1-5-bearing-kit)    |
+| Motion packs | Millennium Mill V1.5 Motion pack of Motion (main) parts                                  | CNA           | £222.11   | [Aliexpress](https://s.click.aliexpress.com/e/_Dkc32I3)                                                                |
 
 ## Individual parts
 

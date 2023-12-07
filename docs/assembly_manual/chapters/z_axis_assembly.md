@@ -202,7 +202,7 @@ Before tightening the fasteners fully, make sure the tension is set correctly. T
 
 ---
 
-## Install spindle holder  
+## Install spindle holder
 
 It has come time to install your spindle mount - but do not install your spindle at this point.
 
@@ -223,7 +223,7 @@ Leave these M5 nuts loose for now.
 
 ## Optional: Logo insert
 
-If you wish at this point, you can glue in your Millenium Logo.
+If you wish at this point, you can glue in your Millennium Logo.
 
 ![](../resources/z_axis_assembly/y_axis_step_83.png)
 
