@@ -108,6 +108,11 @@ Fasten the Y-Axis Anti-Backlash Nut to the bottom of the XY plate using M5x16mm 
 
 ![fasten the Y-Axis Anti-Backlash Nut to the bottom of the XY plate using M5x16mm BHCS](../img/y_axis_assembly/y_axis_step_9.png){: .shadow}
 
+!!! note "Anti-Backlash Nut Accessibility"
+    When the machine is fully assembled, the rear of the Y-Axis Anti-Backlash Nut is almost impossible to access due to its proximity to the main column. To aid in making preload adjustments to the Y-Axis once the machine is assembled, you should fully tighten the brass lead-screw nut that faces the main column - this is the one installed on the 'square' face of the Anti-Backlash nut rather than the round face which will point towards the operator.
+
+    Once fully assembled, moving the table to Y=0 (so the rear of the table is against the main column) will allow you to access the front screws to adjust Y-Axis preload using a long, ball-end hex wrench.
+
 ---
 
 Fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHCS.
@@ -115,7 +120,6 @@ Fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHC
 ![fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHCS](../img/y_axis_assembly/y_axis_step_9.png){: .shadow}
 
 !!! warning "Anti-Backlash Preload Tuning"
-
     Each axis uses anti-backlash[^1] blocks in order to compensate for changes in screw direction during operation. They do this by driving 2 brass TR8x8 lead-screw nuts towards each other to engage both sides of the lead-screw threads.
 
     In order for this to work the preload required to drive each nut needs to be tuned by hand. To tune the preload make sure the lead-screws are greased appropriately, then install the 2 brass TR8x8 lead-screw nuts within the anti backlash block.
@@ -127,7 +131,7 @@ Fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHC
     The ideal preload will allow for the lead-screw to still spin by hand but should have a moderate amount of resistance to it.
     Once complete make sure each bolt has thread-lock applied, and uninstall the lead-screw - your preload is now set. To avoid any headaches, do this before final installation.
 
-[^1]: Yes technically it's a "zero backlash" nut and not an "anti-backlash nut", but the common term for it is anti-backlash and that's what most people know it as.
+[^1]: Yes, technically this is a "zero backlash" nut and not an "anti-backlash nut" - but the common term for it is anti-backlash and that's what most people know it as.
 
 ---
 ## Y-Axis Motor Mount and Bearing Block

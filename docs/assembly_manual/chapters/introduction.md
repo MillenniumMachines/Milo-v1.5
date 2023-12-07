@@ -9,14 +9,14 @@ A machine that can easily electrocute you, cut you or set fire to your whole nei
 
 !!! warning
 
-    Please follow the manual to the letter and perform any additional research you deem necessary before attempting to use it for the first time.
+    Please follow the manual to the letter and perform any additional research you deem necessary before attempting to use Milo for the first time.
 
     If there is anything, and we mean _anything_ that you are curious or unsure about, you are more than welcome to ask us on our discord server.
 
     After all, you are special to us and we don't want you to get hurt.
 
 Most importantly from everyone at the Millennium Machines design team,
-Have fun building your very first Milo.
+Have fun building your very first Milo!
 
 ## Bill of Materials
 
@@ -58,16 +58,16 @@ These files are prefixed with `[a]` and are intended to be printed in your chose
 ### Quantity Required
 
 Example: `Handwheel Body x2.stl`
-If any file ends with `_x#`, that is telling you the quantity of that part required to build the machine.
+If any file ends with `x#`, that is telling you the quantity of that part required to build the machine.
 
 ### Part Versions
 
 Example: `Skirt Front A xxxxxx.stl`
 
-Note the descriptor at the end of the file name - while there are many types of skirt front "A" files, they all vary in their design and some are even mirrors of others so as to mount devices on either side.
+Note the descriptor at the end of the file name - while there are many types of Skirt Front "A" files, they all vary in their design and some are even mirrors of others so as to mount devices on either side.
 
 !!! tip
-    Some printed parts have multiple versions in order to cater for different machine setups - be aware that not all versions need to be printed to put your machine.
+    Some printed parts have multiple versions in order to cater for different machine setups - be aware that not all versions need to be printed to build your machine.
 
     ![skirt variants picture](../img/skirt_variant.png){: .shadow}
 
@@ -77,7 +77,7 @@ Note the descriptor at the end of the file name - while there are many types of 
 
 ## Drilling Out Holes
 
-To make some features printable without support, some holes are printed with a sacrificial floor. These parts will need to be drilled and or cut out before use.
+To make some features printable without support, some features are printed with a sacrificial floor. These parts will need to be drilled and or cut out before use.
 
 ## T-Nuts Application
 

@@ -20,15 +20,6 @@ ISO 10642
 
 ---
 
-## Nyloc Hex Nuts
-
-![Nyloc hex nuts wireframe](../img/hardware/nyloc.png){: .shadow}
-
-Hex nuts couple with bolts to create a tight, secure joint. Nyloc nuts go one step further and cuddle your bolts like your mum used to when you were a child.
-
-ISO 10642
-
----
 
 ## Socket Head Cap Bolt (SHCS)
 
@@ -37,6 +28,16 @@ ISO 10642
 Metric fastener with a cylindrical shaped head and hex drive. Most commonly found in locations where a fastener makes contact directly with either a metal part or in conjunction with a washer.
 
 ISO 4762
+
+---
+
+## Nyloc Hex Nuts
+
+![Nyloc hex nuts wireframe](../img/hardware/nyloc.png){: .shadow}
+
+Hex nuts couple with bolts to create a tight, secure joint. Nyloc nuts go one step further and cuddle your bolts like your mum used to when you were a child.
+
+ISO 10642
 
 ---
 
@@ -132,7 +133,7 @@ Used to drive the Z-Axis lead-screw from the 20-tooth pulley above.
 
 ## Brass Lead-screw Nut
 
-![Brass lead-screw nut](../img/hardware/brass_lead-screw_nut.png){: .shadow}
+![Brass lead-screw nut](../img/hardware/brass_leadscrew_nut.png){: .shadow}
 
 Used to translate rotational motion of a lead-screw into linear motion of an axis.
 

@@ -12,7 +12,7 @@ The X and Z axis dimensions are customisable but we don't recommend anything mor
     If you want to extend your clearance in Z (the effective Z height), you will need to order longer C-Beam extrusions for the main column. This information is available in the [Sourcing Guide](./bom/sourcing_guide.md#frame).
 
 !!! abstract
-    Milo is a 'table slinger' - the spindle is stationary in X and Y, and the work table moves underneath it. The X and Y axes cannot move through the XY Gantry plate so the work area is limited by the dimensions of the gantry plate _as well as_ the length and thickness of the table.
+    Milo is a 'table slinger' - the spindle is stationary in X and Y, and the work table moves underneath it. The X and Y axes cannot move through the XY Gantry plate so the work area is limited by the dimensions of the gantry plate _as well as_ the length and width of the table.
 
     It is important to note that the Y axis cannot be made any longer than it already is, because the size limitation on the Y axis is dictated by how far the spindle sits out towards the operator from the main column.
 
@@ -20,9 +20,23 @@ The X and Z axis dimensions are customisable but we don't recommend anything mor
 
 ---
 
-### What materials can the Milo V1.5 be used with?
+### What materials can the Milo V1.5 be used on?
 
-This depends on the strength of your critical parts and the tooling you have, but the stock machine is capable of cutting wood and aluminium effectively. A machine with aluminium XY and Z gantry plates is even able to mill certain Steels (with caveats!).
+This depends on the strength of your critical parts and the tooling you have, but the stock machine is capable of cutting wood and aluminium effectively, and should also be capable of operations in mild steel (with caveats!)
+
+---
+
+### What sort of repeatable tolerances can I expect with Milo V1.5?
+
+This depends on a large number of factors. Every step in the build process has an impact on how accurate your machine is, and the more meticulous you are about making sure rails, axes and lead-screws are aligned, anti-backlash nuts are properly preloaded and bearing stacks are suitably locked, the more accurate you can expect your machine to be.
+
+Likewise, if you choose to use 3D printed XY and Z gantry plates instead of the suggested metal ones, then you will also see a negative impact on accuracy and repeatability.
+
+You must also remember that Milo is **not** a professional grade machine, and you should temper your expectations accordingly. For a machine that can be built for the cost of an expensive 3D printer, Milo is incredibly capable, but because of the design choices made to make it available at this cost, it will take a bit of effort to keep it at the levels of reliability and repeatability that it is capable of.
+
+If you're looking for numbers - a Milo built following the assembly instructions with no further tweaking will be able to hold tolerances of +-0.1mm with 3D printed XY and Z gantry plates, and approaching +-0.03mm or lower with metal gantry plates and FMJ.
+
+*[FMJ]: Full Metal Jacket
 
 ---
 
@@ -38,13 +52,13 @@ The size of the FMJ is user-defined - if machining height is not of importance t
 
 ---
 
-### Can I print the 3D printed parts out of Rainbow PLA / Orange PETG / Squeezy Cheese?
+### Can I use Rainbow PLA / Orange PETG / Squeezy Cheese?
 You can do anything you want, it is your machine after all, but your choice of filament has a direct impact on the quality and accuracy of parts you will be able to make on Milo.
 
-The filament recommendations in the [BOM](./bom/sourcing_guide.md#printed-parts) are made for good reason - they have been tested by the design team over a long period of time and have been found to be stiff, strong and resilient where other filament choices were not.
+The filament recommendations in the [BOM](./bom/sourcing_guide.md#printed-parts) are made for good reason - they have been tested by the design team over a long period of time and have been found to be stiff, strong and resilient where other filament choices were not. We do not recommend straying from the BOM suggested material choices or print settings.
 
 !!! warning
-    Using a different filament material will likely impact the strength and accuracy of your machine and this _could_ have safety implications.
+    Using a different filament material will likely impact the strength and accuracy of your machine, and this _could_ have safety implications.
 
 ---
 
@@ -89,7 +103,7 @@ You should buy a VFD that matches the power requirement of your spindle. If you 
 
 ### What End Mills should I buy?
 
-There's a lot to learn about end mills, but if you're looking to work with aluminium then the Dreanique Millennium Mill Starter Set is a great choice - you can find links to buy it in the [BOM](./bom/sourcing_guide.md#kits).
+There's a lot to learn about end mills, but if you're looking to work with Aluminium then the Dreanique Millennium Mill Starter Set is a great choice - you can find links to buy it in the [BOM](./bom/sourcing_guide.md#kits).
 
 If you're new to milling then you probably want to buy two sets :sweat_smile:
 
