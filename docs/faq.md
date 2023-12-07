@@ -68,7 +68,7 @@ There are none. This is a deliberate choice, as we strongly suggest new builds u
 
 These plates can be printed but their strength and accuracy will have a direct impact on the quality of parts you can produce with Milo, and they are the first two parts that should be upgraded to metal once you have the ability to make them.
 
-These parts can be extracted directly from the [CAD files](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/CAD/) for local machining or printing.
+These parts can be extracted directly from the [CAD files](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/CAD/) for local machining or printing.
 
 ---
 
@@ -113,4 +113,4 @@ If you're new to milling then you probably want to buy two sets :sweat_smile:
 
 ### I've noticed an error in the documentation or want to suggest an improvement!
 
-Great! Please submit it as an issue on our [GitHub](https://github.com/MilleniumMills) under the relevant repository - or if you have the technical knowledge, we happily accept pull requests provided that they improve the content, relevance and accuracy of our documentation.
+Great! Please submit it as an issue on our [GitHub](https://github.com/MillenniumMachines) under the relevant repository - or if you have the technical knowledge, we happily accept pull requests provided that they improve the content, relevance and accuracy of our documentation.

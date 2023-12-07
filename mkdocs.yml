@@ -1,5 +1,5 @@
-site_name: Millennium Machines Milo V1.5
-repo_url: https://github.com/MilleniumMills/Millenium-Milo-v1.5
+site_name: Millennium Machines
+repo_url: https://github.com/MillenniumMachines/Milo-v1.5
 edit_uri: edit/main/docs/
 nav:
   - Home: index.md

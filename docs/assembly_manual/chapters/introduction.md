@@ -91,7 +91,7 @@ Linear rail carriages use small ball-bearings to glide smoothly along the profil
 You must make sure that your carriages are appropriately greased before running your machine. Liberal application of EP2 grease to the carriages will do the trick.
 
 !!! warning
-    Use a [dummy rail](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main//STL%20Files/Tools/Dummy%20Rail.stl) when removing carriages from the rail. _Searching for tiny ball-bearings when they go bouncing around your garage is not an experience we would like you to share!_
+    Use a [dummy rail](https://github.com/MillenniumMachines/Milo-v1.5/tree/main//STL%20Files/Tools/Dummy%20Rail.stl) when removing carriages from the rail. _Searching for tiny ball-bearings when they go bouncing around your garage is not an experience we would like you to share!_
 
 !!! tip
     Turn each rail upside down and put a carriage directly over one of the screw holes. You can then use a small syringe to inject grease directly into the carriage. When you start to see grease coming out along the rails you're done.
