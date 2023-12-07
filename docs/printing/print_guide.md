@@ -33,7 +33,7 @@
 ## Main Column
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** | **Note** |
 |----------|------------|-------------------------|--------------|--------:|----------------------|----------|
-| [Ballast Box                    ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Main%20Column/Ballast%20Box%20x1.stl)                                        | 40%  | 2.4mm | ABS/ASA | 1 | :material-close: No | Optional - Needs to be water tight |
+| [Ballast Box                    ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Main%20Column/Ballast%20Box%20x1.stl)                                        | 40%  | 2.4mm | ABS/ASA | 1 | :material-close: No | Optional - must be water tight |
 | [Ballast Cap                    ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Main%20Column/Ballast%20Cap%20x1.stl)                                        | 40%  | 2.4mm | ABS/ASA | 1 | :material-close: No | Optional |
 | [Joining Plate A                ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Main%20Column/Column%20Plate%20A%20x1.stl)                                   | 40%  | 2.4mm | ABS/ASA | 1 | :material-close: No | |
 | [Joining Plate A Mirror         ](https://github.com/MilleniumMills/Millenium-Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Main%20Column/Column%20Plate%20A%20Mirror%20x1.stl)                          | 40%  | 2.4mm | ABS/ASA | 1 | :material-close: No | |

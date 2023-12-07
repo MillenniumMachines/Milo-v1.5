@@ -144,27 +144,16 @@ It's only used for the machine feet. Maybe you can source suitable replacement p
 
 Use drivers that are suitable for your motor needs. Make sure to match your motor phase current to your driver max RMS current.
 
-#### XY Gantry Plate
+#### XY and Z Gantry Plate
 
 !!! warning
-    This part can be printed, but it is a critical, load-bearing part of the machine.
+    These parts can be printed, but are a critical, load-bearing part of the machine.
     Any inaccuracy or weakness will be reflected in the accuracy and finish of
     the parts you mill, so bear this in mind.
 
-    You should buy this plate from one of the [Kit suppliers](#kits) above.
+    You should buy these plates from one of the [Kit suppliers](#kits) above.
 
-    _If you print this plate, it should be one of the first components you upgrade._
-
-<!-- TODO provide a statement from the design team -->
-
-#### Z Gantry Plate
-
-!!! warning
-    Like the XY gantry plate, the Z gantry plate can be printed, but it is a critical, load-bearing part of the machine.
-
-    You should buy this plate from one of the [Kit suppliers](#kits) above.
-
-    _If you print this plate, it should be one of the first components you upgrade._
+    _If you print them, they should be one of the first components you upgrade._
 
 <!-- TODO provide a statement from the design team -->
 
