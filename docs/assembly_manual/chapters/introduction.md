@@ -2,7 +2,7 @@
 
 Take a deep breath for a second and realize something.
 
-You… yes **YOU**, are about to commit to building a robot that can cut through metal, let alone your squishy human parts…
+You... yes **YOU**, are about to commit to building a robot that can cut through metal, let alone your squishy human parts.
 A machine that can easily electrocute you, cut you or set fire to your whole neighborhood if it's not given the respect it deserves.
 
 **Please** give this machine the respect it deserves !!!
@@ -117,7 +117,7 @@ Before you head out on your journey to create skynet, it's probably a good idea 
 Building Milo can be confusing, but we're here to help.
 Do you have a question?
 Do you wanna show off your build?
-Maybe do you just want someone to chat with?
+Maybe you just want someone to chat with?
 Well, why not join our community here on:
 
 - :fontawesome-brands-discord: **Discord** [https://discord.gg/ya4UUj7ax2](https://discord.gg/ya4UUj7ax2)

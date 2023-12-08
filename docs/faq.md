@@ -1,8 +1,8 @@
 # Frequently Asked Questions
 
-## The Machine
+## Milo V1.5
 
-### What is the work area of the Milo V1.5?
+### What is the work area?
 
 The standard (and recommended) work envelope is 340mm in X, 160mm in Y, and 60mm in Z.
 
@@ -20,13 +20,13 @@ The X and Z axis dimensions are customisable but we don't recommend anything mor
 
 ---
 
-### What materials can the Milo V1.5 be used on?
+### What materials can the machine be used on?
 
 This depends on the strength of your critical parts and the tooling you have, but the stock machine is capable of cutting wood and aluminium effectively, and should also be capable of operations in mild steel (with caveats!)
 
 ---
 
-### What sort of repeatable tolerances can I expect with Milo V1.5?
+### What sort of repeatable tolerances can I expect?
 
 This depends on a large number of factors. Every step in the build process has an impact on how accurate your machine is, and the more meticulous you are about making sure rails, axes and lead-screws are aligned, anti-backlash nuts are properly preloaded and bearing stacks are suitably locked, the more accurate you can expect your machine to be.
 
@@ -109,7 +109,7 @@ If you're new to milling then you probably want to buy two sets :sweat_smile:
 
 ---
 
-## Millennium Machines
+## Millennium Machines Organisation
 
 ### I've noticed an error in the documentation or want to suggest an improvement!
 
