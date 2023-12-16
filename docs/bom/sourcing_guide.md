@@ -100,10 +100,9 @@
 | MGN15 Rail 250mm                                   | 2       |                                                                                                 |
 | MGN15 Rail 500mm                                   | 2       |                                                                                                 |
 | MGN15C Rail Carriage                               | 12      |                                                                                                 |
-| TR8x8 4-Start Lead-screw 550mm (min)               | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
-| TR8x8 4-Start Lead-screw 550mm (min)               | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
-| TR8x8 4-Start Lead-screw 300mm (min)               | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
-| TR8x8 4 start Brass Lead-screw Nut                 | 6       | [Amazon](https://www.amazon.co.uk/Stainless-Threaded-printer-Accessories-Printer/dp/B0969QXZBB) |
+| TR8x8 4-Start Lead-screw 550mm (min - X & Y Axis)  | 2       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
+| TR8x8 4-Start Lead-screw 300mm (min - Z Axis)      | 1       | [Aliexpress](https://s.click.aliexpress.com/e/_9yAzzZ)                                          |
+| TR8x8 4-Start Brass Lead-screw Nut                 | 6       | [Amazon](https://www.amazon.co.uk/Stainless-Threaded-printer-Accessories-Printer/dp/B0969QXZBB) |
 | GT2 20T (6mm wide) Pulley (6.35mm (1/4 inch) bore) | 1       | [Ooznest](https://ooznest.co.uk/product/2gt-pulleys/)                                           |
 | GT2 40T (6mm wide) Pulley (8mm bore)               | 1       | [Amazon](https://amzn.to/3wCXwwR)                                                               |
 | 608 2Z Shielded deep groove ball bearing           | 8       | [Aliexpress](https://s.click.aliexpress.com/e/_9fU0np)                                          |
