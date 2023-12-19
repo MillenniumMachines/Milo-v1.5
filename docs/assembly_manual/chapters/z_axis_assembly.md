@@ -1,10 +1,10 @@
-# Z Axis Assembly
+# Z-Axis Assembly
 
 ![](../img/z_axis_assembly/z_axis_assembly.png)
 
 ---
 
-## Identifying extrusions
+## Identifying Extrusions
 
 This section of the build contains a number of C-beams that are close together. To help you identify which parts are which, lay out your extrusions like the diagram shown below. The next steps will then highlight which extrusions are used for each step.
 
@@ -24,7 +24,16 @@ Extrusions `A` and `B` are the main Z-column extrusions.
 ![](../img/z_axis_assembly/y_axis_step_43.png){: .shadow}
 
 ---
-## Installing the column plates
+## FMJ
+
+*[FMJ]: Full Metal Jacket
+
+!!! tip "Full Metal Jacket Installation"
+    If you have Full Metal Jacket plates instead of the 3D printed column joining plates, please refer to the [FMJ Assembly](./fmj_assembly.md) guide. Once complete, you can return to the [Lower Bearing Block](#lower-bearing-block) section and continue your Z-Axis assembly.
+
+---
+
+## Installing the Column Plates
 
 !!! info annotate "Components Required"
     ```
@@ -88,7 +97,6 @@ Place it on the front of extrusion `D`, again with the channel facing _outwards_
 
 ---
 
-
 ![](../img/z_axis_assembly/y_axis_step_51.png){: .shadow}
 
 ---
@@ -123,7 +131,7 @@ Use M5x12mm BHCS to attach the bearing block to the bottom of extrusion `C`.
 
 ---
 
-## Ballast box
+## Ballast Box
 
 The ballast box is designed to house a damping load such as sand or epoxy granite. It is not a requirement but is recommended.
 
@@ -199,14 +207,16 @@ Place a locking collar onto the bottom of the lead-screw, and lock it in place. 
 
 !!! info annotate "Components Required"
     ```
-    1 x M3 Heat-Set Insert
-    4 x M3x8mm SHCS
-    2 x M5 Heat-set Insert
+    8 x M3x10mm SHCS
     2 x Brass Lead-screw Nut
+    2 x MGN15 Rail 250mm
     1 x Z-Axis Lead-screw
     ```
 
-Install the Z rails with only the lower carriages installed onto the frontmost extrusion.
+!!! note
+    If you followed the FMJ installation steps, your rails are already installed. Proceed to fitting the lead-screw!
+
+Install the Z rails with only the lower carriages installed onto the `C` extrusion using M3x10mm SHCS. Make sure the end-most and centre-most bolt holes in each rail are used.
 
 Use printed [rail alignment guides](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files/Tools/Rail%20Alignment%20Guide.stl) to make sure the rails are aligned.
 
@@ -319,7 +329,7 @@ Attach the motor using M5x20mm BHCS with M5 washers and Nyloc nuts on the upper 
     To do this, pull the motor away from the column with one hand until the belt can be strummed like a guitar string and then tighten the fasteners in opposing corners first.
 
 ---
-## Z Reinforcement Bracket
+## Z-Axis Reinforcement Bracket
 
 !!! info annotate "Components Required"
     ```
@@ -327,6 +337,9 @@ Attach the motor using M5x20mm BHCS with M5 washers and Nyloc nuts on the upper 
     2 x Z Reinforcement Bracket (1)
     ```
 1. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
+
+!!! note
+    If you have FMJ's on your Z-axis, these reinforcements are unnecessary.
 
 Place the Z Reinforcement Brackets under the Z motor as shown below.
 
@@ -367,7 +380,10 @@ Install the Z Drag-Chain mount and Cable Redirect Hook using M5x12mm BHCS.
 ![](../img/z_axis_assembly/y_axis_step_75.png){: .shadow}
 
 ---
-## Joining Y- and Z-Axes
+## Joining Y- and Z-Axes (Standard)
+
+!!! note
+    If you have FMJ plates, skip to [Joining Y- and Z-Axes (FMJ)](#joining-y-and-z-axes-fmj)
 
 !!! info annotate "Components Required"
     ```
@@ -386,9 +402,30 @@ Attach the assembled Y- and Z-Axes to each other using M5x12mm BHCS through the 
 
 ---
 
-Attach the Y Motor Mount to the Z-Axis using M5x12mm BHCS.
+## Joining Y- and Z-Axes (FMJ)
+
+!!! note
+    If you do not have FMJ plates, follow [Joining Y- and Z-Axes (Standard)](#joining-y-and-z-axes-standard) above.
+
+!!! info annotate "Components Required"
+    ```
+    8 x M5x12mm BHCS
+     1 x Assembled Y-Axis
+     1 x Assembled Z Axis with FMJ
+    ```
+
+Attach the assembled Y- and Z-Axes to each other using M5x12mm BHCS through the bottom row of holes in the FMJ.
+
+![](../img/fmj_assembly/fmj_step_6.png){: .shadow}
+
+---
+
+## Y-Axis Motor Mount
+
+Attach the Y-Axis Motor Mount to the Z-Axis using M5x12mm BHCS
 
 ![](../img/y_axis_assembly/y_axis_step_77.png){: .shadow}
+
 
 ---
 ## Spindle Mount
