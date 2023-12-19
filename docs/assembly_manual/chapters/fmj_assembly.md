@@ -89,13 +89,13 @@ Place extrusion `C` on the front of extrusion `D`, again with the channel (and r
 
 !!! info annotate "Components Required"
     ```
-    <TBD> x M5x12mm BHCS
+    32 x M5x12mm BHCS
     2 x FMJ Plate (1)
     ```
-1. :material-factory: FMJ Plates should be laser-cut from steel.
+1. :material-factory: If self-sourcing, FMJ Plates should be laser-cut from mild steel - this will give you the best bang-for-your-buck. You will need to spray or paint the raw FMJ's to stop them corroding - we find truck-bed liner and appliance enamel provide a suitable coating durability. They can also be milled from Aluminium or Steel but this will increase the cost significantly.
 
 !!! warning
-    If your FMJ plates are thicker than 6mm, you may need to use longer M5 BHCS to engage enough thread in the T-Nuts on the column. For example if your FMJ is 8mm thick, you should use M5x14mm BHCS instead of 12mm.
+    If your FMJ plates are thicker than 6mm, you may need to use longer M5 BHCS to engage enough thread in the T-Nuts on the column. For example - if your FMJ is 8mm thick, you should use M5x14mm BHCS instead of 12mm.
 
 Take one of your FMJ plates and line up the bottom edge of the FMJ shoulder with the bottom edge of the `C` extrusion.
 
