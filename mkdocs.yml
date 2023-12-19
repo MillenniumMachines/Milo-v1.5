@@ -13,6 +13,7 @@ nav:
       - Y-Axis Assembly: assembly_manual/chapters/y_axis_assembly.md
       - X-Axis Assembly: assembly_manual/chapters/x_axis_assembly.md
       - Z-Axis Assembly: assembly_manual/chapters/z_axis_assembly.md
+      - FMJ Assembly: assembly_manual/chapters/fmj_assembly.md
       - Table Assembly: assembly_manual/chapters/table_assembly.md
   - Electronics Manual:
       - Introduction: electronics_manual/index.md
