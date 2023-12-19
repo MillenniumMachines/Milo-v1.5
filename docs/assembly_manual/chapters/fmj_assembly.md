@@ -3,12 +3,31 @@
 ![](../img/fmj_assembly/fmj_assembly.png)
 
 !!! note "FMJ"
-    The Full Metal Jacket is an optional reinforcement for the Z-Axis that improves its' rigidity and strength significantly. If you're looking to cut aluminium, then you should think about installing the FMJ from the get-go.
+    The Full Metal Jacket is an optional reinforcement for the Z-Axis that improves its' rigidity and strength significantly. If you're looking to cut metals, then you should think about installing the FMJ from the get-go.
 
 !!! tip annotate "Standard Assembly"
     The following information applies _only_ if you are building your Milo with FMJ plates. If you do not have FMJ plates and are using 3D printed column joining plates, please follow [Installing the Column Plates](./z_axis_assembly.md#installing-the-column-plates) instead.
 
 *[FMJ]: Full Metal Jacket
+
+## FMJ Sourcing
+FMJ's cannot be made on Milo due to their size - so you will need to acquire them by different means.
+
+<!-- Check the [Sourcing Guide](../../bom/sourcing_guide.md) for FMJ kits. !-->
+
+If self-sourcing, FMJ's should be laser-cut, ideally from Mild Steel, which will give you the best bang-for-your-buck.
+
+FMJ's can be used to extend your Z clearance, which is the maximum work-piece and work-holding height that is able to move under the Z-column overhang. The stock clearance is 60mm, and with the maximum size FMJ this can be extended to 120mm.
+
+If using the FMJ to extend your clearance, you will need to increase the length of the `A` and `B` extrusions (detailed in [Identifying Extrusions](#identifying-extrusions)) by the difference from the standard clearance. For 120mm clearance, you will need 320mm C-Beams (`120-60 + 260 = 320mm`).
+
+The designs are available in the [User Mods Repository](https://github.com/MillenniumMachines/UserMods/tree/main/Millennium-Milo-V1.5-MODS/Techmorphic/Techmorphic-FMJ-para-plates) - the Fusion360 file is parametric, so you will need to check / set your parameters for length and bolt hole sizes before exporting for cutting.
+
+Services like SendCutSend in the US or Fractory in the EU can produce FMJ's at a decent price, and they offer discounts for bulk runs.
+
+Remember that a set of FMJ's contains _two_ plates, one for either side of the Z column.
+
+If obtaining these plates with a non-durable surface finish (Mild Steel for example), then you will need to  paint the raw FMJ's to stop them corroding - we find sprayed truck-bed liner or appliance enamel provides a suitable coating durability, but feel free to experiment with other high-durability coatings.
 
 ---
 
@@ -92,7 +111,7 @@ Place extrusion `C` on the front of extrusion `D`, again with the channel (and r
     32 x M5x12mm BHCS
     2 x FMJ Plate (1)
     ```
-1. :material-factory: If self-sourcing, FMJ Plates should be laser-cut from mild steel - this will give you the best bang-for-your-buck. You will need to spray or paint the raw FMJ's to stop them corroding - we find truck-bed liner and appliance enamel provide a suitable coating durability. They can also be milled from Aluminium or Steel but this will increase the cost significantly.
+1. :material-factory: See [FMJ Sourcing](#fmj-sourcing) above.
 
 !!! warning
     If your FMJ plates are thicker than 6mm, you may need to use longer M5 BHCS to engage enough thread in the T-Nuts on the column. For example - if your FMJ is 8mm thick, you should use M5x14mm BHCS instead of 12mm.
