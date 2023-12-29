@@ -155,9 +155,7 @@ Insert the M5 heat-set inserts into the Y-Axis Motor Mount.
 ![insert the M5 heat-set inserts in the Y-Axis Motor Mount](../img/y_axis_assembly/y_axis_step_12.png){: .shadow}
 
 !!! tip
-    The motor mount has been redesigned so yours will be shorter than the one in this image. On the shorter mount, the heat-set inserts can be installed from the flat side of the mount (the side that printed against the bed).
-
-    These inserts are much more resistant to being pulled out of the mount than the ones in the older style motor mount, especially when over-torquing the motor bolts.
+    This redesigned motor mount is shorter than the original design, and allows the heat-set inserts to be installed from the side opposite the motor. This makes the inserts much more resistant to being pulled out of the mount than the ones in the older style mount, especially when over-torquing the motor bolts.
 
 ---
 
