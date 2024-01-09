@@ -77,9 +77,6 @@ Fasten the XY Drag-Chain Transition to the XY plate using M3x20mm SHCS and one M
      4 x Brass Lead-screw Nut
      4 x M5x16mm BHCS
     ```
-1. For additional strength this part should be machined :material-saw-blade: but it can be printed :material-printer-3d-nozzle-heat-outline: using the [recommended settings](../../printing/print_guide.md) if necessary.
-2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
-
 Insert the M3 and M5 heat-set inserts into the Y-Axis Anti-Backlash Nut.
 
 ![insert the M3 and M5 heat-set inserts in the Y-Axis Anti-Backlash Nut](../img/y_axis_assembly/y_axis_step_5.png){: .shadow}
@@ -332,7 +329,7 @@ Fasten one end-link of the drag chain to the Y-Axis Drag Chain Mount using M3x6m
 
 Fasten the other end link to the XY Drag Chain Transition using M3x6mm FHCS.
 
-![fasten the other end link of the dragchain to the XY-Axis Drag Chain Transition using 2 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_1.png){: .shadow}
+![fasten the other end link of the dragchain to the XY-Axis Drag Chain Transition using 2 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_2.png){: .shadow}
 
 !!! tip
     It's a good time to mention that the little cutouts that you may have noticed scattered around the build are for your zip ties. Use these to secure your cables where necessary.

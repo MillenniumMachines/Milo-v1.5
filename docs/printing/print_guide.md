@@ -27,7 +27,7 @@
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** |
 |----------|------------|-------------------------|--------------|--------:|----------------------|
 | [Z Axis Motor Mount             ](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/Z%20Motor%20Mount%20x1.stl)                                  | 40%  | 1.6mm | ABS/ASA | 1 | :material-close: No |
-| [Z Axis Bearing Block           ](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/%5Ba%5D%20Z%20Bearing%20Block%20x1.stl)                      | 40%  | 1.6mm | ABS/ASA | 1 | :material-close: No |
+| [Z Axis Bearing Block           ](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/%5Ba%5D%20Z%20Axis%20Bearing%20Block%20x1.stl)               | 40%  | 1.6mm | ABS/ASA | 1 | :material-close: No |
 | [Z Axis Anti Backlash Nut       ](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/Z%20Axis%20Anti%20Backlash%20Nut%20x1.stl)                   | 40%  | 1.6mm | ABS/ASA | 1 | :material-close: No |
 
 ## Main Column
