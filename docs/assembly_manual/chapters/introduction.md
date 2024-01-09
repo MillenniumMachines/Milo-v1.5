@@ -102,13 +102,16 @@ You must make sure that your carriages are appropriately greased before running 
 
 Before you head out on your journey to create skynet, it's probably a good idea that you learn a few things. Luckily the Millennium Machines team have put together a curated list of videos to teach you all you need to know - sit back, relax and enjoy.
 
+<div class="annotate" markdown>
 - [How to lubricate your motion system](https://www.youtube.com/watch?v=UYvhYjkBFTY&list=PL7zrGeKp_8CTDOmpwZr5JnCSJqEghFh9j&index=39&t=816s)
 - [How to use heat set inserts](https://www.youtube.com/watch?v=cyof7fYFcuQ&list=PL7zrGeKp_8CTDOmpwZr5JnCSJqEghFh9j&index=32)
-- [Should you cold blue your rails ? And how to do it](https://www.youtube.com/watch?v=p6Id4Kl8RB0&list=PL7zrGeKp_8CTDOmpwZr5JnCSJqEghFh9j&index=10&t=210s)
-- [How to get started with RepRap firmware on a fly board](https://www.youtube.com/watch?v=TAT532vIVzU)
+- [Bluing is highly recommended for non-stainless steel linear rails only](https://www.youtube.com/watch?v=p6Id4Kl8RB0&list=PL7zrGeKp_8CTDOmpwZr5JnCSJqEghFh9j&index=10&t=210s)(1)
+- [How to get started with RepRap firmware on a Fly board](https://www.youtube.com/watch?v=TAT532vIVzU)
 - [CNC basics](https://www.youtube.com/watch?v=YBGqknN3gGs&t=466s)
 - [Electronics connectors and how to use them](https://www.youtube.com/watch?v=y6G_MhQFv3k)
 - [Cable chains and how not to use them](https://www.youtube.com/watch?v=_HiuY015rOY)
+</div>
+1. Cold bluing stainless steel, while technically possible, is performed primarily for aesthetic reasons. The cold bluing process does not significantly change its corrosion resistance or any other inherent physical property.
 
 ---
 
