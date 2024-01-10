@@ -17,6 +17,16 @@ With the counterbores the right way round, locate hole `B` and make sure it is o
 After this has been done, face `C` will now be oriented towards you. When installed, this face will be towards `Y` minimum (or towards the operator).
 
 ---
+
+!!! warning "BE SAFE, LOCK IT!"
+    These machines vibrate an immense amount when in use, and fasteners are bound to back out. Don't be afraid to add a little bit of medium-strength (generally, blue) thread-lock to all your screws to avoid this problem.
+
+!!! warning "Protect your rail carriages"
+    Rail carriages should always have a rail or [dummy rail](https://github.com/MillenniumMachines/Milo-v1.5/tree/main//STL%20Files/Tools/Dummy%20Rail.stl) installed in them to avoid damaging them. If your rails didn't come with dummy rails, then print the ones we provided for you in the print list.
+
+    ![dummy rail](../img/hardware/dummy_rail.png){: .shadow}
+
+---
 ## XY Gantry Plate
 
 !!! info annotate "Components Required"
@@ -45,14 +55,6 @@ Attach the lower rail `Y` carriages using M3x5mm SHCS.
 Attach the upper rail `X` carriages using M3x10mm SHCS.
 
 ![screw the top carriages using M3x10mm SHCS](../img/y_axis_assembly/y_axis_step_2.png){: .shadow}
-
-!!! warning "BE SAFE, LOCK IT!"
-    These machines vibrate an immense amount when in use, and fasteners are bound to back out. Don't be afraid to add a little bit of medium-strength (generally, blue) thread-lock to all your screws to avoid this problem.
-
-!!! warning "Protect your rail carriages"
-    Rail carriages should always have a rail or [dummy rail](https://github.com/MillenniumMachines/Milo-v1.5/tree/main//STL%20Files/Tools/Dummy%20Rail.stl) installed in them to avoid damaging them. If your rails didn't come with dummy rails, then print the ones we provided for you in the print list.
-
-    ![dummy rail](../img/hardware/dummy_rail.png){: .shadow}
 
 ---
 
