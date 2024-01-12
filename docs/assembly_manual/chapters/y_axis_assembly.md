@@ -17,6 +17,16 @@ With the counterbores the right way round, locate hole `B` and make sure it is o
 After this has been done, face `C` will now be oriented towards you. When installed, this face will be towards `Y` minimum (or towards the operator).
 
 ---
+
+!!! warning "BE SAFE, LOCK IT!"
+    These machines vibrate an immense amount when in use, and fasteners are bound to back out. Don't be afraid to add a little bit of medium-strength (generally, blue) thread-lock to all your screws to avoid this problem.
+
+!!! warning "Protect your rail carriages"
+    Rail carriages should always have a rail or [dummy rail](https://github.com/MillenniumMachines/Milo-v1.5/tree/main//STL%20Files/Tools/Dummy%20Rail.stl) installed in them to avoid damaging them. If your rails didn't come with dummy rails, then print the ones we provided for you in the print list.
+
+    ![dummy rail](../img/hardware/dummy_rail.png){: .shadow}
+
+---
 ## XY Gantry Plate
 
 !!! info annotate "Components Required"
@@ -46,14 +56,6 @@ Attach the upper rail `X` carriages using M3x10mm SHCS.
 
 ![screw the top carriages using M3x10mm SHCS](../img/y_axis_assembly/y_axis_step_2.png){: .shadow}
 
-!!! warning "BE SAFE, LOCK IT!"
-    These machines vibrate an immense amount when in use, and fasteners are bound to back out. Don't be afraid to add a little bit of medium-strength (generally, blue) thread-lock to all your screws to avoid this problem.
-
-!!! warning "Protect your rail carriages"
-    Rail carriages should always have a rail or [dummy rail](https://github.com/MillenniumMachines/Milo-v1.5/tree/main//STL%20Files/Tools/Dummy%20Rail.stl) installed in them to avoid damaging them. If your rails didn't come with dummy rails, then print the ones we provided for you in the print list.
-
-    ![dummy rail](../img/hardware/dummy_rail.png){: .shadow}
-
 ---
 
 Insert the M3 Heat-set inserts into the XY Drag-Chain Transition.
@@ -77,9 +79,6 @@ Fasten the XY Drag-Chain Transition to the XY plate using M3x20mm SHCS and one M
      4 x Brass Lead-screw Nut
      4 x M5x16mm BHCS
     ```
-1. For additional strength this part should be machined :material-saw-blade: but it can be printed :material-printer-3d-nozzle-heat-outline: using the [recommended settings](../../printing/print_guide.md) if necessary.
-2. :material-printer-3d-nozzle-heat-outline: Print this part using the [recommended settings](../../printing/print_guide.md)!
-
 Insert the M3 and M5 heat-set inserts into the Y-Axis Anti-Backlash Nut.
 
 ![insert the M3 and M5 heat-set inserts in the Y-Axis Anti-Backlash Nut](../img/y_axis_assembly/y_axis_step_5.png){: .shadow}
@@ -332,7 +331,7 @@ Fasten one end-link of the drag chain to the Y-Axis Drag Chain Mount using M3x6m
 
 Fasten the other end link to the XY Drag Chain Transition using M3x6mm FHCS.
 
-![fasten the other end link of the dragchain to the XY-Axis Drag Chain Transition using 2 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_1.png){: .shadow}
+![fasten the other end link of the dragchain to the XY-Axis Drag Chain Transition using 2 M3x6mm FHCS](../img/y_axis_assembly/y_axis_step_26_2.png){: .shadow}
 
 !!! tip
     It's a good time to mention that the little cutouts that you may have noticed scattered around the build are for your zip ties. Use these to secure your cables where necessary.

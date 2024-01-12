@@ -1,11 +1,15 @@
 # Printing Guide
 
-!!! note "Layer Height"
-    Some parts have sacrificial floors to allow unsupported features to be printed successfully. These floors are designed to work at a layer height of 0.2mm, so they may not be sliced correctly if your layer height is set higher than that.
+!!! note "Layer Height and Line Width"
+    Some parts have sacrificial floors to allow unsupported features to be printed successfully. These floors are designed to work at a layer height of **0.2mm**, so they may not be sliced correctly if your layer height is not 0.2mm.
 
-    Additionally, there are some parts containing overhangs that will become more difficult to print with thicker layers due to the overhang angle.
+    There are also some parts containing overhangs that will become more difficult to print with thicker layers due to the overhang angle.
 
     **Unless you're willing to experiment and almost certainly waste filament, stick with 0.2mm layers.**
+
+    We provide a **Minimum Wall Thickness** for every printable part, which is the minimum **total** thickness of your perimeter lines and top and bottom solid layers. This depends on the size of your nozzle and line width settings in your slicer so must be calculated based on your own settings.
+
+    Given a 0.4mm nozzle, 100% perimeter line width, 0.2mm layers and a minimum wall thickness of 2.4mm, you would set your slicer to generate a _minimum_ of 6 perimeters and 12 top / bottom layers.
 
 ## X-Axis Assembly
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** |
@@ -27,7 +31,7 @@
 | **Name** | **Infill** | **Min. Wall Thickness** | **Material** | **Qty** | **Accent Color** |
 |----------|------------|-------------------------|--------------|--------:|----------------------|
 | [Z Axis Motor Mount             ](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/Z%20Motor%20Mount%20x1.stl)                                  | 40%  | 1.6mm | ABS/ASA | 1 | :material-close: No |
-| [Z Axis Bearing Block           ](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/%5Ba%5D%20Z%20Bearing%20Block%20x1.stl)                      | 40%  | 1.6mm | ABS/ASA | 1 | :material-close: No |
+| [Z Axis Bearing Block           ](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/%5Ba%5D%20Z%20Axis%20Bearing%20Block%20x1.stl)               | 40%  | 1.6mm | ABS/ASA | 1 | :material-close: No |
 | [Z Axis Anti Backlash Nut       ](https://github.com/MillenniumMachines/Milo-v1.5/tree/main/STL%20Files/Minimill%20Main/Z%20Axis%20STLs/Z%20Axis%20Anti%20Backlash%20Nut%20x1.stl)                   | 40%  | 1.6mm | ABS/ASA | 1 | :material-close: No |
 
 ## Main Column
