@@ -116,7 +116,7 @@ Place extrusion `C` on the front of extrusion `D`, again with the channel (and r
 !!! warning
     The length of the M5 BHCS bolts used to attach the FMJ to the column depends on the thickness of your FMJ. The bolts specified here are for a plate thickness of 6mm, which is currently the most common choice, and is supplied as standard with the LDO kit.
 
-    If your FMJ plates are thicker than this, you should aim for an M5 BHCS that is 4-6mm longer than your plates are thick.
+    If your FMJ plates are not 6mm thick, you should aim for an M5 BHCS that is 4-6mm longer than your plates are thick.
 
 Take one of your FMJ plates and line up the bottom edge of the FMJ shoulder with the bottom edge of the `C` extrusion.
 
