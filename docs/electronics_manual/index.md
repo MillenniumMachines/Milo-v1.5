@@ -10,5 +10,5 @@ Chapters:
 
 - [Introduction](chapters/introduction.md)
 - [Install RRF](chapters/install_rrf.md)
-- [Assembly](chapters/assemble_electronics.md)
+- [Assembly and Wiring](chapters/assemble_electronics.md)
 - [Pre-Flight Checks](chapters/pre_flight_checks.md)

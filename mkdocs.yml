@@ -18,7 +18,7 @@ nav:
   - Electronics Manual:
       - Introduction: electronics_manual/chapters/introduction.md
       - Install RRF: electronics_manual/chapters/install_rrf.md
-      - Assembly: electronics_manual/chapters/assemble_electronics.md
+      - Assembly and Wiring: electronics_manual/chapters/assemble_electronics.md
       - Pre-Flight Checks: electronics_manual/chapters/pre_flight_checks.md
 
 extra_css:

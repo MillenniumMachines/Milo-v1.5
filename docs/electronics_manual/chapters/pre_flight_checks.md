@@ -8,6 +8,8 @@ table movement instead. Use this as a reference to setup your axes direction in 
 
 For your Z axis the spindle should move up for Z+ and down for Z-.
 
+![Axis direction diagram](../img/pre_flight_checks/pre_flight_checks_step_0.png){: .shadow}
+
 ---
 
 ## Endstop Query
@@ -18,7 +20,7 @@ then check your wiring and or your endstop setup in config.g.
 ---
 
 ## Homing Check
-Ensure that all you homing routines in `homeall.g`, `homex.g`, `homey.g` and `homez.g` all work appropriately.
+Ensure that all you homing routines in `homeall.g`, `homex.g`, `homey.g` and `homez.g` work appropriately. You should make sure your `Z` routine works first by running `G28 Z` from the console or clicking the 'Home Z' button in Duet Web Control. Once `Z` homes correctly, you can test `X` and `Y`, and then finally use the 'Home All' button or simply `G28` in the console.
 
 ---
 
@@ -48,7 +50,7 @@ If you are using a fixture of some kind, tram your spindle with reference to tha
 ## Spindle speed control
 First, ensure your VFD is set up correctly according to its manual.
 
-Then make sure to set your max spindle speed in `config.g``. Under the spindle section of your config find
+Then make sure to set your max spindle speed in `config.g`. Under the spindle section of your config find
 the line beginning with `M950` and change the value found after `L` to your maximum spindle speed e.g. `L24000`.
 
 ---
