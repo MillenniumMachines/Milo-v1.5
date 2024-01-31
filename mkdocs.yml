@@ -16,7 +16,10 @@ nav:
       - FMJ Assembly: assembly_manual/chapters/fmj_assembly.md
       - Table Assembly: assembly_manual/chapters/table_assembly.md
   - Electronics Manual:
-      - Introduction: electronics_manual/index.md
+      - Introduction: electronics_manual/chapters/introduction.md
+      - Install RRF: electronics_manual/chapters/install_rrf.md
+      - Assembly and Wiring: electronics_manual/chapters/assemble_electronics.md
+      - Pre-Flight Checks: electronics_manual/chapters/pre_flight_checks.md
 
 extra_css:
   - stylesheets/extra.css
