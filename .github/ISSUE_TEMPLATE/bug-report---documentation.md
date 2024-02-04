@@ -1,7 +1,7 @@
 ---
 name: Bug report - Documentation
 about: Report documentation issues.
-title: ''
+title: "[BUG: DOC]"
 labels: bug, documentation
 assignees: ''
 
