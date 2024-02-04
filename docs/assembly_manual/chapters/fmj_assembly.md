@@ -108,13 +108,15 @@ Place extrusion `C` on the front of extrusion `D`, again with the channel (and r
 
 !!! info annotate "Components Required"
     ```
-    32 x M5x12mm BHCS
+    32 x M5x10mm BHCS
     2 x FMJ Plate (1)
     ```
 1. :material-factory: See [FMJ Sourcing](#fmj-sourcing) above.
 
 !!! warning
-    If your FMJ plates are thicker than 6mm, you may need to use longer M5 BHCS to engage enough thread in the T-Nuts on the column. For example - if your FMJ is 8mm thick, you should use M5x14mm BHCS instead of 12mm.
+    The length of the M5 BHCS bolts used to attach the FMJ to the column depends on the thickness of your FMJ. The bolts specified here are for a plate thickness of 6mm, which is currently the most common choice, and is supplied as standard with the LDO kit.
+
+    If your FMJ plates are not 6mm thick, you should aim for an M5 BHCS that is 4-6mm longer than your plates are thick.
 
 Take one of your FMJ plates and line up the bottom edge of the FMJ shoulder with the bottom edge of the `C` extrusion.
 
