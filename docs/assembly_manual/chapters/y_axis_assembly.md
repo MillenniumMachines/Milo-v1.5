@@ -116,7 +116,8 @@ Fasten the Y-Axis Anti-Backlash Nut to the bottom of the XY plate using M5x16mm 
 
 Fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHCS.
 
-![fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHCS](../img/y_axis_assembly/y_axis_step_9.png){: .shadow}
+![fasten the X-Axis Anti-Backlash Nut to the top of the XY plate using M5x16mm BHCS](../img/y_axis_assembly/y_axis_step_10.png){: .shadow}
+
 
 !!! warning "Anti-Backlash Preload Tuning"
     Each axis uses anti-backlash[^1] blocks in order to compensate for changes in screw direction during operation. They do this by driving 2 brass TR8x8 lead-screw nuts towards each other to engage both sides of the lead-screw threads.
