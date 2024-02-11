@@ -4,12 +4,6 @@
 
 ---
 
-## Part Inconsistencies
-
-The Y axis motor mount has gone through a big update to make it stronger and easier to work with unfortunately it means that a vast section of the manual will need to reworked to show off this change, in the meantime we want to make sure that you can continue on with your Milo builds so you may see both the old and new Y motor mounts appear in this manual at various stages. Where the old mount appears the steps will be exactly the same for the new mount and in places where only the new mount can be seen those steps will only work for the new mount. No hardware changes have been made so there is no need to buy new screws or heated inserts.
-
-![Changes](../img/y_axis_assembly/y_axis_new-old.png)
-
 ## XY Plate Orientation
 
 ![XY plate](../img/y_axis_assembly/y_axis_step_0.png){: .shadow}
