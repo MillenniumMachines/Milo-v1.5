@@ -33,8 +33,6 @@ You can then decide how you want to control your spindle - the simplest types ar
 !!! note
     There are too many styles of spindle to realistically account for, so if the spindle mount doesn't support your spindle then design a new one and send it our way and we may include it as an official user mod!
 
----
-
 ## Parts List and Printing Guidelines
 
 The Millennium Machines team has provided a printing list with settings for you as a guideline for printing the parts necessary for the build. This list can be found [here](../../printing/print_guide.md).
