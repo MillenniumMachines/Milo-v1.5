@@ -69,6 +69,11 @@ If you want to raise your table, now is the time to install your TPU feet using 
 
 ![](../img/table_assembly/table_foot_assy.jpg){: .shadow}
 
+---
+
+Fix the table to the Y axis of the mill using 3 corner brackets placed equispaced along both sides.
+
+![](../img/table_assembly/table_assembly_attach_to_mill.jpg){: .shadow}
 
 ---
 !!! success ":fontawesome-solid-champagne-glasses: Congratulations!"
