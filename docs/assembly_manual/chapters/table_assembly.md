@@ -63,8 +63,12 @@ Use M5x12mm BHCS to attach the table bolt-down brackets to each corner of the el
 
 ![](../img/table_assembly/y_axis_step_91.png){: .shadow}
 
-!!! tip
-    If you want to raise your table, now is the time to install your TPU feet using M5x30mm BHCS!
+---
+
+If you want to raise your table, now is the time to install your TPU feet using M5x30mm BHCS!
+
+![](../img/table_assembly/table_foot_assy.jpg){: .shadow}
+
 
 ---
 !!! success ":fontawesome-solid-champagne-glasses: Congratulations!"
