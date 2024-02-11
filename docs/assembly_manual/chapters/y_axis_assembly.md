@@ -68,6 +68,9 @@ Insert the M3 Heat-set inserts into the XY Drag-Chain Transition.
 
 ![insert the M3 heat-set inserts in the XY Drag Chain Transition](../img/y_axis_assembly/y_axis_step_3.png){: .shadow}
 
+!!! note
+    You may notice that some kits like LDO’s come with 2 different length of M3 heat insert, the smaller ones are used wherever cable chains attach to and the longer ones are used for everything else.
+
 ---
 
 Fasten the XY Drag-Chain Transition to the XY plate using M3x20mm SHCS and one M3 washer each.
