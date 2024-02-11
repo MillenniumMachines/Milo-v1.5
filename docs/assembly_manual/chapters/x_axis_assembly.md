@@ -79,7 +79,7 @@ Fasten the X-Axis Table Supports to the C-Beam using M5x12mm BHCS and spring T-n
 
 Fasten the X-Axis Table Supports to the 2040 extrusions using M5x8mm BHCS and spring T-nuts.
 
-![fasten the X-Axis table support to the spring t-nut in 500mm 2040 extrusions using 18 M5x8mm BHCS](../img/x_axis_assembly/y_axis_step_33.jpg){: .shadow}
+![fasten the X-Axis table support to the spring t-nut in 500mm 2040 extrusions using 18 M5x8mm BHCS](../img/x_axis_assembly/y_axis_step_33.png){: .shadow}
 
 !!! warning
     Double-check the length of M5 bolts you're using. If your bolts are too long you will bottom out the bolt in the extrusion channel and it will not grip the table supports. If your bolts are too short you'll break the printed parts if you over-tighten them.
