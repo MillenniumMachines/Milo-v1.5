@@ -71,8 +71,6 @@ Note the descriptor at the end of the file name - while there are many types of 
 
     Choose the parts you need based on your build requirements.
 
----
-
 ## Drilling Out Holes
 
 To make some features printable without support, some features are printed with a sacrificial floor. These parts will need to be drilled and or cut out before use.
