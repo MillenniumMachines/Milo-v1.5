@@ -107,6 +107,12 @@ Wire the AC Inlet, PSU, E-stop and VFD according to the diagram below.
 
 ![AC Wiring diagram](../img/assemble_electronics/assemble_electronics_step_9.png){: .shadow}
 
+### VFD / Spindle Wiring
+
+There are a large number of VFD and spindle options available. This section of the manual provides general guidence only. You should refer to your specific VFD manual for its setup. 
+
+![AC Wiring diagram](../img/assemble_electronics/assemble_electronics_step_9_5.png){: .shadow}
+
 !!!warning "VFD and Spindle Ground"
     You **MUST** make sure that your VFD and Spindle are properly grounded. Your VFD and Spindle are the only mains-powered items that you will come into contact with regularly during the operation of the machine, so these **MUST** have an operational ground connection **AT ALL TIMES**, and you **MUST** make sure that the socket you plug Milo into is properly grounded as well.
 
