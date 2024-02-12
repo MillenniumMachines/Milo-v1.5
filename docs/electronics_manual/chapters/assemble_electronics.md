@@ -1,6 +1,6 @@
 # Assemble Electronics Area
 
-![Assembled electronics area](../img/assemble_electronics/electronics_assembly.png)
+![Assembled electronics area](../img/assemble_electronics/electronics_assembly.png){: .shadow}
 
 ---
 ## Cable Channel and PSU Installation

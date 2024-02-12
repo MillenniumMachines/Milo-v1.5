@@ -86,7 +86,7 @@ If you are using the Mellow FLY CDY V3, then add 2 jumpers as shown below.
 
 You may need to take similar or different steps depending on your board. You will need to refer to the documentation for your particular board to identify the steps required.
 
-![](../img/install_rrf/install_rrf_step_4.png){: .shadow}
+![](../img/install_rrf/install_rrf_step_4.png)
 
 ---
 
