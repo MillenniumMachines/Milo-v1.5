@@ -29,6 +29,7 @@ Install the enclosure support extrusion brace using M5x8mm BHCS.
 ---
 
 Install the printed `Cable Channel` using M5x8mm BHCS.
+
 ![Add cable channel](../img/assemble_electronics/assemble_electronics_step_1.png){: .shadow}
 
 ---
