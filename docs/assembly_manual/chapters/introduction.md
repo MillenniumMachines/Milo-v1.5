@@ -99,11 +99,11 @@ You must make sure that your carriages are appropriately greased before running 
 Before you head out on your journey to create skynet, it's probably a good idea that you learn a few things. Luckily the Millennium Machines team have put together a curated list of videos to teach you all you need to know - sit back, relax and enjoy.
 
 <div class="annotate" markdown>
-- [How to lubricate your motion system](https://www.youtube.com/watch?v=UYvhYjkBFTY&list=PL7zrGeKp_8CTDOmpwZr5JnCSJqEghFh9j&index=39)
+- [How to lubricate your motion system](https://youtu.be/UYvhYjkBFTY?si=sulP966B3b0GDdSj)
 - [How to use heat set inserts](https://www.youtube.com/watch?v=cyof7fYFcuQ&list=PL7zrGeKp_8CTDOmpwZr5JnCSJqEghFh9j&index=32)
-- [Bluing is highly recommended for non-stainless steel linear rails only](https://www.youtube.com/watch?v=p6Id4Kl8RB0&list=PL7zrGeKp_8CTDOmpwZr5JnCSJqEghFh9j&index=10)(1)
+- [Bluing is highly recommended for non-stainless steel linear rails only](https://youtu.be/p6Id4Kl8RB0?si=NPgrowcaCaDVQcHR)(1)
 - [How to get started with RepRap firmware on a Fly board](https://www.youtube.com/watch?v=TAT532vIVzU)
-- [CNC basics](https://www.youtube.com/watch?v=YBGqknN3gGs)
+- [CNC basics](https://youtu.be/YBGqknN3gGs?si=ds4zdG03RDS3XUv7)
 - [Electronics connectors and how to use them](https://www.youtube.com/watch?v=y6G_MhQFv3k)
 - [Cable chains and how not to use them](https://www.youtube.com/watch?v=_HiuY015rOY)
 </div>
