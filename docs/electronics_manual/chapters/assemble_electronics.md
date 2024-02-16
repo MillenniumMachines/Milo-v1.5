@@ -172,7 +172,7 @@ You may also require a relay to send an enable signal to your VFD. If you wish t
 !!! info annotate "VFD Wiring"
     There are a large number of VFD and spindle options available. This wiring diagram provides general guidence only. You should refer to your specific VFD manual for its setup.
 
-    ![VFD Wiring diagram](../img/assemble_electronics/assemble_electronics_step_12_5.jpg){: .shadow}
+    ![VFD Wiring diagram](../img/assemble_electronics/assemble_electronics_step_12_5.jpg)
 
 ---
 
