@@ -163,6 +163,10 @@ You may also require a relay to send an enable signal to your VFD. If you wish t
 
 ![DC Wiring diagram](../img/assemble_electronics/assemble_electronics_step_12.png){: .shadow}
 
+There are a large number of VFD and spindle options available. This wiring diagram provides general guidence only. You should refer to your specific VFD manual for its setup.
+
+![VFD Wiring diagram](../img/assemble_electronics/assemble_electronics_step_12_5.jpg){: .shadow}
+
 !!! note
     There is no standard for motor wire colors - the motor wires shown in this example do no correlate with the rest of the legend.
 
