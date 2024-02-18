@@ -1,7 +1,7 @@
 ---
 name: Bug report - CAD / Geometry
 about: Report CAD errors.
-title: "[BUG: CAD]"
+title: ''
 labels: bug, CAD
 assignees: ''
 
