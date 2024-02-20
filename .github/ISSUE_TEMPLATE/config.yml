@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation Issue
+    url: https://github.com/MillenniumMachines/millenniummachines.github.io/issues/new?assignees=&labels=bug%2C+documentation&projects=&template=bug-report---documentation.md&title=
+    about: Suggest an improvement to the documentation on the docs page.
+    
+  - name: Ask a question
+    url: https://discord.gg/ZkRgwg7sB7
+    about: Please visit the discord to ask questions!
