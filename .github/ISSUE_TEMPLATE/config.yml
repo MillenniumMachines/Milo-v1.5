@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Documentation Issue
+  - name: Bug report - Documentation
     url: https://github.com/MillenniumMachines/millenniummachines.github.io/issues/new?assignees=&labels=bug%2C+documentation&projects=&template=bug-report---documentation.md&title=
     about: Suggest an improvement to the documentation on the docs page.
     
