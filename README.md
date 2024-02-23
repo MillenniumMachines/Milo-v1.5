@@ -14,9 +14,13 @@ If you would like to follow the development of Milo, please follow us on Reddit:
 ## Examples
 
 <p align="center">
-  <img src="./images/moving.gif">
+  <img src="./images/cutting.gif">
 </p>
 
 <p align="center">
-  <img src="./images/cutting.gif">
+  <img src="./images/chips.gif">
+</p>
+
+<p align="center">
+  <img src="./images/moving.gif">
 </p>
