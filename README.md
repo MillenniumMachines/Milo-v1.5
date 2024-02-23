@@ -19,6 +19,7 @@ If you would like to follow the development of Milo, please follow us on Reddit:
 
 <p align="center">
   <img src="./images/chips.gif">
+  <img src="./images/long_tool.gif">
 </p>
 
 <p align="center">
