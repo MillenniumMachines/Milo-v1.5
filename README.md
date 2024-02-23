@@ -18,8 +18,8 @@ If you would like to follow the development of Milo, please follow us on Reddit:
 </p>
 
 <p align="center">
-  <img height="500" src="./images/chips.gif">
-  <img height="500" src="./images/long_tool.gif">
+  <img width="300" src="./images/chips.gif">
+  <img width="300" src="./images/long_tool.gif">
 </p>
 
 <p align="center">
