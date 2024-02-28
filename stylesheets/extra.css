@@ -1,0 +1,21 @@
+:root {
+    --md-primary-fg-color:        #9E1414;
+    --md-accent-fg-color:         #EC6565;
+    --md-primary-fg-color--light: #AD4343;
+    --md-primary-fg-color--dark:  #9E1414;
+}
+
+.shadow {
+    height: auto;
+    width: auto;
+    box-shadow: 0 0 5px 5px white;
+    /* box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2) inset, 0 6px 20px 0 rgba(0, 0, 0, 0.19) inset;*/
+}
+
+.md-typeset__table {
+   min-width: 100%;
+}
+
+.md-typeset table:not([class]) {
+    display: table;
+}
